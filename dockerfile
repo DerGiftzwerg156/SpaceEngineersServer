@@ -1,4 +1,4 @@
 FROM devidian/spaceengineers:latest
 
 #Config Datei kopieren
-COPY conf.cfg /appdata/space-engineers/instances/SE/SpaceEngineers-Dedicated.cfg
+COPY server-config.cfg /appdata/space-engineers/instances/SE/SpaceEngineers-Dedicated.cfg

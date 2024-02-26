@@ -26,4 +26,4 @@ jobs:
 
       - name: Portainer Webhook
         run: |
-          curl -X POST -H "Content-Type: application/json" -d '{"key": "value"}' https://portainer.kedi-server.de/api/stacks/webhooks/f3edcebd-4680-406c-a814-969920ed8a45
+          curl -X POST -H "Content-Type: application/json" -d '{"key": "value"}' https://portainer.kedi-server.de/api/stacks/webhooks/6d4c8260-5895-443b-8a8e-0794591080b0

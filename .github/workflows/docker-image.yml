@@ -1,0 +1,32 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+
+  server-image:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Build Space Engineers Server Image
+        run: |
+          docker build -t registry.kedi-server.de/space_engineers_server:latest .
+
+      - name: Push the Docker image
+        run: |
+          docker push registry.kedi-server.de/space_engineers_server:latest
+
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Portainer Webhook
+        run: |
+          curl -X POST -H "Content-Type: application/json" -d '{"key": "value"}' newLinkPlease

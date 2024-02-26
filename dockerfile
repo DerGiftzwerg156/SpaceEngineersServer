@@ -5,3 +5,5 @@ COPY server-config.cfg /conf/SpaceEngineers-Dedicated.cfg
 
 COPY entrypoint.sh /root/
 ENTRYPOINT /root/entrypoint.sh
+
+RUN chmod +x /root/entrypoint.sh

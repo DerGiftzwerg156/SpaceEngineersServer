@@ -1,4 +1,7 @@
 FROM devidian/spaceengineers:latest
 
 #Config Datei kopieren
-COPY server-config.cfg /appdata/space-engineers/instances/SE/SpaceEngineers-Dedicated.cfg
+COPY server-config.cfg /conf/SpaceEngineers-Dedicated.cfg
+
+COPY entrypoint.sh /root/
+ENTRYPOINT /root/entrypoint.sh

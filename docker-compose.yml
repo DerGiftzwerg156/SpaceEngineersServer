@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   se-server:
-    image: devidian/spaceengineers:latest
+    image: registry.kedi-server.de/space_engineers_server:latest
     container_name: spaceengineers
     restart: unless-stopped
     volumes:

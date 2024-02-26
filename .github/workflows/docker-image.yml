@@ -23,10 +23,3 @@ jobs:
       - name: Push the Docker image
         run: |
           docker push registry.kedi-server.de/space_engineers_server:latest
-
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Trigger Portainer Webhook
-        run: |
-          curl -X POST -H "Content-Type: application/json" -d '{"key": "value"}' newLinkPlease

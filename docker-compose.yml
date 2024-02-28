@@ -1,8 +1,8 @@
 version: '3'
 services:
   space-engineers-server:
-    image: space-engineers-server
-    container_name: registry.kedi-server.de/space_engineers_server:latest
+    image: registry.kedi-server.de/space_engineers_server:latest
+    container_name: space-engineers-server
     ports:
       - "27016:27016/tcp"
       - "27016:27016/udp"

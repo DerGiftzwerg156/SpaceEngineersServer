@@ -1,10 +1,24 @@
-version: '3'
+version: "3.8"
+
 services:
-  space-engineers-server:
-    image: registry.kedi-server.de/space_engineers_server:latest
-    container_name: space-engineers-server
-    ports:
-      - "27016:27016/tcp"
-      - "27016:27016/udp"
-      - "8888:8080"
+  se-server:
+    image: devidian/spaceengineers:latest
+    container_name: se-ds-docker
     restart: unless-stopped
+    volumes:
+      # left side: your docker-host machine
+      # right side: the paths in the image (!!do not change!!)
+      - /appdata/space-engineers/plugins:/appdata/space-engineers/plugins
+      - /appdata/space-engineers/instances:/appdata/space-engineers/instances
+      - /appdata/space-engineers/SpaceEngineersDedicated:/appdata/space-engineers/SpaceEngineersDedicated
+      - /appdata/space-engineers/steamcmd:/root/.steam
+    ports:
+      - target: 27016
+        published: 27016
+        protocol: udp
+        mode: host
+    environment:
+      - WINEDEBUG=-all
+      - INSTANCE_NAME=TestInstance
+      - PUBLIC_IP=84.247.164.133
+      # public ip required for healthcheck

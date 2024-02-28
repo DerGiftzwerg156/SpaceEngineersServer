@@ -6,10 +6,11 @@ RUN apt-get update && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-# Download and install Space Engineers Dedicated Server
-RUN mkdir /app && \
-    cd /app && \
-    wget https://example.com/path/to/SpaceEngineersDedicated.zip && \
+# Copy Space Engineers Dedicated Server files
+COPY SpaceEngineersDedicated.zip /app/SpaceEngineersDedicated.zip
+
+# Unzip Space Engineers Dedicated Server files
+RUN cd /app && \
     unzip SpaceEngineersDedicated.zip && \
     rm SpaceEngineersDedicated.zip
 

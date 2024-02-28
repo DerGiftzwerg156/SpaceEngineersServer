@@ -1,9 +1,24 @@
-FROM devidian/spaceengineers:latest
+FROM mono:latest
 
-#Config Datei kopieren
-COPY server-config.cfg /conf/SpaceEngineers-Dedicated.cfg
+# Install dependencies
+RUN apt-get update && \
+    apt-get install -y wget unzip && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
 
-COPY entrypoint.sh /root/
-ENTRYPOINT /root/entrypoint.sh
+# Download and install Space Engineers Dedicated Server
+RUN mkdir /app && \
+    cd /app && \
+    wget https://example.com/path/to/SpaceEngineersDedicated.zip && \
+    unzip SpaceEngineersDedicated.zip && \
+    rm SpaceEngineersDedicated.zip
 
-RUN chmod +x /root/entrypoint.sh
+WORKDIR /app
+
+# Expose ports
+EXPOSE 27016/tcp
+EXPOSE 27016/udp
+EXPOSE 8080
+
+# Start the server
+CMD ["mono", "DedicatedServer.exe"]

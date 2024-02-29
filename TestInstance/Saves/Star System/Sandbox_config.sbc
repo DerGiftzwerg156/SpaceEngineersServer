@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
-<MyConfigDedicated xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SessionSettings>
+<MyObjectBuilder_WorldConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
-    <InventorySizeMultiplier>3</InventorySizeMultiplier>
+    <InventorySizeMultiplier>6</InventorySizeMultiplier>
     <BlocksInventorySizeMultiplier>1</BlocksInventorySizeMultiplier>
-    <AssemblerSpeedMultiplier>3</AssemblerSpeedMultiplier>
-    <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
-    <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
+    <AssemblerSpeedMultiplier>5</AssemblerSpeedMultiplier>
+    <AssemblerEfficiencyMultiplier>5</AssemblerEfficiencyMultiplier>
+    <RefinerySpeedMultiplier>4</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>4</MaxPlayers>
-    <MaxFloatingObjects>56</MaxFloatingObjects>
+    <MaxFloatingObjects>100</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
-    <MaxBackupSaves>20</MaxBackupSaves>
+    <MaxBackupSaves>5</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>100000</TotalPCU>
@@ -19,7 +19,7 @@
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>GLOBALLY</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
-    <EnvironmentHostility>SAFE</EnvironmentHostility>
+    <EnvironmentHostility>NORMAL</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
     <EnableCopyPaste>false</EnableCopyPaste>
     <WeaponsEnabled>true</WeaponsEnabled>
@@ -30,10 +30,10 @@
     <WorldSizeKm>0</WorldSizeKm>
     <RespawnShipDelete>false</RespawnShipDelete>
     <ResetOwnership>false</ResetOwnership>
-    <WelderSpeedMultiplier>2</WelderSpeedMultiplier>
-    <GrinderSpeedMultiplier>2</GrinderSpeedMultiplier>
+    <WelderSpeedMultiplier>3</WelderSpeedMultiplier>
+    <GrinderSpeedMultiplier>4</GrinderSpeedMultiplier>
     <RealisticSound>false</RealisticSound>
-    <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
+    <HackSpeedMultiplier>0.7</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
     <AutoSaveInMinutes>10</AutoSaveInMinutes>
     <EnableSaving>true</EnableSaving>
@@ -43,7 +43,7 @@
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
-    <EnableIngameScripts>false</EnableIngameScripts>
+    <EnableIngameScripts>true</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
@@ -83,13 +83,13 @@
     <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
     <SyncDistance>3000</SyncDistance>
-    <ExperimentalMode>false</ExperimentalMode>
+    <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>true</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
-    <TrashFlagsValue>1562</TrashFlagsValue>
+    <TrashFlagsValue>7706</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
     <BlockCountThreshold>20</BlockCountThreshold>
     <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
@@ -103,14 +103,14 @@
     <EnableResearch>true</EnableResearch>
     <EnableGoodBotHints>false</EnableGoodBotHints>
     <OptimalSpawnDistance>16000</OptimalSpawnDistance>
-    <EnableAutorespawn>false</EnableAutorespawn>
+    <EnableAutorespawn>true</EnableAutorespawn>
     <EnableBountyContracts>true</EnableBountyContracts>
     <EnableSupergridding>false</EnableSupergridding>
-    <EnableEconomy>false</EnableEconomy>
-    <DepositsCountCoefficient>2</DepositsCountCoefficient>
-    <DepositSizeDenominator>30</DepositSizeDenominator>
+    <EnableEconomy>true</EnableEconomy>
+    <DepositsCountCoefficient>1</DepositsCountCoefficient>
+    <DepositSizeDenominator>60</DepositSizeDenominator>
     <WeatherSystem>true</WeatherSystem>
-    <HarvestRatioMultiplier>1</HarvestRatioMultiplier>
+    <HarvestRatioMultiplier>1.8</HarvestRatioMultiplier>
     <TradeFactionsCount>15</TradeFactionsCount>
     <StationsDistanceInnerRadius>10000000</StationsDistanceInnerRadius>
     <StationsDistanceOuterRadiusStart>10000000</StationsDistanceOuterRadiusStart>
@@ -147,55 +147,8 @@
     <PrefetchShapeRayLengthLimit>15000</PrefetchShapeRayLengthLimit>
     <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
-  </SessionSettings>
-  <LoadWorld />
-  <CrossPlatform>false</CrossPlatform>
-  <IP>0.0.0.0</IP>
-  <SteamPort>8766</SteamPort>
-  <ServerPort>27016</ServerPort>
-  <AsteroidAmount>0</AsteroidAmount>
-  <Administrators>
-    <unsignedLong>76561198914565027</unsignedLong>
-  </Administrators>
-  <Banned />
-  <GroupID>0</GroupID>
-  <ServerName>Trichteralkis</ServerName>
-  <WorldName>Earth Planet</WorldName>
-  <VerboseNetworkLogging>false</VerboseNetworkLogging>
-  <PauseGameWhenEmpty>true</PauseGameWhenEmpty>
-  <MessageOfTheDay />
-  <MessageOfTheDayUrl />
-  <AutoRestartEnabled>true</AutoRestartEnabled>
-  <AutoRestatTimeInMin>0</AutoRestatTimeInMin>
-  <AutoRestartSave>true</AutoRestartSave>
-  <AutoUpdateEnabled>false</AutoUpdateEnabled>
-  <AutoUpdateCheckIntervalInMin>10</AutoUpdateCheckIntervalInMin>
-  <AutoUpdateRestartDelayInMin>15</AutoUpdateRestartDelayInMin>
-  <AutoUpdateSteamBranch />
-  <AutoUpdateBranchPassword />
-  <IgnoreLastSession>false</IgnoreLastSession>
-  <PremadeCheckpointPath>D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds\Earth Planet\XBox\Sandbox.sbc</PremadeCheckpointPath>
-  <ServerDescription />
-  <ServerPasswordHash />
-  <ServerPasswordSalt>1OD0ZzpasGHLp5cAb9n/eQ==</ServerPasswordSalt>
-  <Reserved />
-  <RemoteApiEnabled>true</RemoteApiEnabled>
-  <RemoteSecurityKey>tvyLmvc6q5bqPDhhpu5+HA==</RemoteSecurityKey>
-  <RemoteApiPort>8080</RemoteApiPort>
-  <RemoteApiIP />
-  <Plugins />
-  <WatcherInterval>30</WatcherInterval>
-  <WatcherSimulationSpeedMinimum>0.05</WatcherSimulationSpeedMinimum>
-  <ManualActionDelay>5</ManualActionDelay>
-  <ManualActionChatMessage>Server will be shut down in {0} min(s).</ManualActionChatMessage>
-  <AutodetectDependencies>true</AutodetectDependencies>
-  <SaveChatToLog>false</SaveChatToLog>
-  <NetworkType>steam</NetworkType>
-  <ConsoleCompatibility>false</ConsoleCompatibility>
-  <NetworkParameters />
-  <ChatAntiSpamEnabled>false</ChatAntiSpamEnabled>
-  <SameMessageTimeout>30</SameMessageTimeout>
-  <SpamMessagesTime>0.5</SpamMessagesTime>
-  <SpamMessagesTimeout>60</SpamMessagesTimeout>
-  <DedicatedId>-4264239542926486891</DedicatedId>
-</MyConfigDedicated>
+  </Settings>
+  <Mods />
+  <SessionName>Star System</SessionName>
+  <LastSaveTime>2024-02-29T18:42:27.1897286+01:00</LastSaveTime>
+</MyObjectBuilder_WorldConfiguration>

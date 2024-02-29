@@ -17,6 +17,9 @@ services:
         published: 27016
         protocol: udp
         mode: host
+      - target: 8888
+        published: 8080
+        mode: host
     environment:
       - WINEDEBUG=-all
       - INSTANCE_NAME=TestInstance

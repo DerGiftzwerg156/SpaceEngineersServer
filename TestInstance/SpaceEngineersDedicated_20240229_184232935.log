@@ -1,0 +1,1926 @@
+2024-02-29 18:42:32.946 - Thread:   1 ->  Log Started
+2024-02-29 18:42:32.947 - Thread:   1 ->  Timezone (local - UTC): 1h
+2024-02-29 18:42:32.947 - Thread:   1 ->  App Version: 01_203_630
+2024-02-29 18:42:32.988 - Thread:   1 ->  Is official: True [NO][IS][NAMP]
+2024-02-29 18:42:32.990 - Thread:   1 ->  Branch / Sandbox: DedicatedServer
+2024-02-29 18:42:32.990 - Thread:   1 ->  Client Build Number: 0
+2024-02-29 18:42:32.990 - Thread:   1 ->  Server Build Number: 0
+2024-02-29 18:42:32.990 - Thread:   1 ->  Environment.ProcessorCount: 16
+2024-02-29 18:42:33.006 - Thread:   1 ->  Environment.OSVersion: Microsoft Windows 10 Home (Microsoft Windows NT 6.2.9200.0)
+2024-02-29 18:42:33.006 - Thread:   1 ->  Environment.CommandLine: "D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe" -noconsole -checkAlive -ignorelastsession
+2024-02-29 18:42:33.006 - Thread:   1 ->  Environment.Is64BitProcess: True
+2024-02-29 18:42:33.006 - Thread:   1 ->  Environment.Is64BitOperatingSystem: True
+2024-02-29 18:42:33.007 - Thread:   1 ->  Environment.Version: .NET Framework 4.8.9181.0
+2024-02-29 18:42:33.007 - Thread:   1 ->  Environment.CurrentDirectory: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64
+2024-02-29 18:42:33.007 - Thread:   1 ->  CPU Info: AMD Ryzen 7 1700 Eight-Core Processor          
+2024-02-29 18:42:33.007 - Thread:   1 ->  IntPtr.Size: 8
+2024-02-29 18:42:33.007 - Thread:   1 ->  Default Culture: 
+2024-02-29 18:42:33.007 - Thread:   1 ->  Default UI Culture: 
+2024-02-29 18:42:33.752 - Thread:   1 ->  MyScreenManager()
+2024-02-29 18:42:33.889 - Thread:   1 ->  MySandboxGame.Constructor() - START
+2024-02-29 18:42:33.893 - Thread:   1 ->     Game dir: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64
+2024-02-29 18:42:33.893 - Thread:   1 ->     Content dir: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content
+2024-02-29 18:42:35.887 - Thread:   1 ->     Preallocate - START
+2024-02-29 18:42:35.892 - Thread:   1 ->        MySpaceWorldGenerator - START
+2024-02-29 18:42:35.909 - Thread:   1 ->        MySpaceWorldGenerator - END
+2024-02-29 18:42:35.909 - Thread:   1 ->        MySpaceBuildComponent - START
+2024-02-29 18:42:35.909 - Thread:   1 ->        MySpaceBuildComponent - END
+2024-02-29 18:42:35.910 - Thread:   1 ->        MyEntities - START
+2024-02-29 18:42:35.959 - Thread:   1 ->        MyEntities - END
+2024-02-29 18:42:35.959 - Thread:   1 ->        MyObjectBuilder_Base - START
+2024-02-29 18:42:35.959 - Thread:   1 ->        MyObjectBuilder_Base - END
+2024-02-29 18:42:35.959 - Thread:   1 ->        MyTransparentGeometry - START
+2024-02-29 18:42:35.959 - Thread:   1 ->        MyTransparentGeometry - END
+2024-02-29 18:42:35.959 - Thread:   1 ->        MyCubeGridDeformationTables - START
+2024-02-29 18:42:35.978 - Thread:   1 ->        MyCubeGridDeformationTables - END
+2024-02-29 18:42:35.978 - Thread:   1 ->        MyMath - START
+2024-02-29 18:42:35.978 - Thread:   1 ->        MyMath - END
+2024-02-29 18:42:35.978 - Thread:   1 ->        MySimpleObjectDraw - START
+2024-02-29 18:42:35.978 - Thread:   1 ->        MySimpleObjectDraw - END
+2024-02-29 18:42:36.002 - Thread:   1 ->        MyEntityComponentsDebugDraw - START
+2024-02-29 18:42:36.003 - Thread:   1 ->        MyEntityComponentsDebugDraw - END
+2024-02-29 18:42:36.003 - Thread:   1 ->        MyGuiIngameScriptsPage - START
+2024-02-29 18:42:36.066 - Thread:   1 ->        MyGuiIngameScriptsPage - END
+2024-02-29 18:42:36.066 - Thread:   1 ->        MyGuiScreenAdminMenu - START
+2024-02-29 18:42:36.067 - Thread:   1 ->        MyGuiScreenAdminMenu - END
+2024-02-29 18:42:36.067 - Thread:   1 ->        MySyncDestructions - START
+2024-02-29 18:42:36.067 - Thread:   1 ->        MySyncDestructions - END
+2024-02-29 18:42:36.067 - Thread:   1 ->        MySyncEntity - START
+2024-02-29 18:42:36.067 - Thread:   1 ->        MySyncEntity - END
+2024-02-29 18:42:36.067 - Thread:   1 ->        MyCommandCharacter - START
+2024-02-29 18:42:36.069 - Thread:   1 ->        MyCommandCharacter - END
+2024-02-29 18:42:36.069 - Thread:   1 ->        MyCommandConsole - START
+2024-02-29 18:42:36.070 - Thread:   1 ->        MyCommandConsole - END
+2024-02-29 18:42:36.070 - Thread:   1 ->        MyCommandEntity - START
+2024-02-29 18:42:36.072 - Thread:   1 ->        MyCommandEntity - END
+2024-02-29 18:42:36.072 - Thread:   1 ->        MyAiTargetManager - START
+2024-02-29 18:42:36.072 - Thread:   1 ->        MyAiTargetManager - END
+2024-02-29 18:42:36.072 - Thread:   1 ->        MyClientDebugCommands - START
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyClientDebugCommands - END
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyDedicatedServer - START
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyDedicatedServer - END
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyDedicatedServerBase - START
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyDedicatedServerBase - END
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyMultiplayerBase - START
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyMultiplayerBase - END
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyMultiplayerClient - START
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyMultiplayerClient - END
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyMultiplayerClientBase - START
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyMultiplayerClientBase - END
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyMultiplayerLobby - START
+2024-02-29 18:42:36.082 - Thread:   1 ->        MyMultiplayerLobby - END
+2024-02-29 18:42:36.083 - Thread:   1 ->        MyMultiplayerLobbyClient - START
+2024-02-29 18:42:36.083 - Thread:   1 ->        MyMultiplayerLobbyClient - END
+2024-02-29 18:42:36.083 - Thread:   1 ->        MyMultiplayerServerBase - START
+2024-02-29 18:42:36.083 - Thread:   1 ->        MyMultiplayerServerBase - END
+2024-02-29 18:42:36.083 - Thread:   1 ->        MyServerDebugCommands - START
+2024-02-29 18:42:36.084 - Thread:   1 ->        MyServerDebugCommands - END
+2024-02-29 18:42:36.084 - Thread:   1 ->        MyCubeGridDefinitions - START
+2024-02-29 18:42:36.207 - Thread:   1 ->        MyCubeGridDefinitions - END
+2024-02-29 18:42:36.208 - Thread:   1 ->        MyDefinitionManager - START
+2024-02-29 18:42:36.258 - Thread:   1 ->        MyDefinitionManager - END
+2024-02-29 18:42:36.260 - Thread:   1 ->     Preallocate - END
+2024-02-29 18:42:36.264 - Thread:   1 ->     Bind IP : 0.0.0.0:27016
+2024-02-29 18:42:43.781 - Thread:   1 ->     Networking service: Steam
+2024-02-29 18:42:43.781 - Thread:   1 ->     Server successfully started
+2024-02-29 18:42:43.782 - Thread:   1 ->     Product name: Space Engineers
+2024-02-29 18:42:43.782 - Thread:   1 ->     Desc: Space Engineers
+2024-02-29 18:42:43.782 - Thread:   1 ->     Public IP: 146.52.253.250
+2024-02-29 18:42:43.782 - Thread:   1 ->     User ID: [009...663]
+2024-02-29 18:42:43.786 - Thread:   1 ->     Server connected to Steam
+2024-02-29 18:42:43.918 - Thread:   1 ->     MyCampaignManager.Constructor() - START
+2024-02-29 18:42:44.370 - Thread:   1 ->     MyCampaignManager.Constructor() - END
+2024-02-29 18:42:44.370 - Thread:   1 ->  MySandboxGame.Constructor() - END
+2024-02-29 18:42:44.371 - Thread:   1 ->  Server Name: TrichterAlkis
+2024-02-29 18:42:44.371 - Thread:   1 ->  World Name: Star System
+2024-02-29 18:42:44.568 - Thread:  22 ->  Remote API unable to start. Run dedicated server in administrator mode or use AllowRemoteHttp.bat file. Also check nothing else is running on port 8080.
+2024-02-29 18:42:44.616 - Thread:   1 ->  SpaceEngineersGame.SetupAnalytics - END
+2024-02-29 18:42:44.616 - Thread:   1 ->  Auto Restart Enabled
+2024-02-29 18:42:44.633 - Thread:   1 ->  MySandboxGame.Initialize() - START
+2024-02-29 18:42:44.633 - Thread:   1 ->     Installed DLCs: 
+2024-02-29 18:42:44.678 - Thread:   1 ->     MyGuiGameControlsHelpers()
+2024-02-29 18:42:44.801 - Thread:   1 ->     Havok: Physics.Init
+2024-02-29 18:42:45.425 - Thread:   1 ->     Havok: Version: Release(0), 1800, [S}
+2024-02-29 18:42:45.452 - Thread:   1 ->     HkGameName: SpaceEngineers
+2024-02-29 18:42:45.472 - Thread:   1 ->     MySandboxGame.LoadData() - START
+2024-02-29 18:42:45.474 - Thread:   1 ->        MyDefinitionManager.LoadScenarios() - START
+2024-02-29 18:42:45.479 - Thread:   1 ->           b8b670e55d821aa24024290088a675f336747040
+2024-02-29 18:42:45.974 - Thread:   1 ->           Loading scenarios
+2024-02-29 18:42:46.043 - Thread:   1 ->        MyDefinitionManager.LoadScenarios() - END
+2024-02-29 18:42:46.044 - Thread:   1 ->        MyDefinitionManager.PreloadDefinitions() - START
+2024-02-29 18:42:46.415 - Thread:   1 ->           Loading OffensiveWords definitions
+2024-02-29 18:42:46.415 - Thread:   1 ->           WARNING: Unexpected behaviour may occur due to redefinition of 'Offensive Words'
+2024-02-29 18:42:46.420 - Thread:   1 ->        MyDefinitionManager.PreloadDefinitions() - END
+2024-02-29 18:42:46.457 - Thread:   8 ->  MySandboxGame.PerformPreload() - START
+2024-02-29 18:42:46.461 - Thread:   8 ->  MyDefinitionManager.GetSessionPreloadDefinitions() - START
+2024-02-29 18:42:46.475 - Thread:   1 ->     MySandboxGame.LoadData() - END
+2024-02-29 18:42:46.476 - Thread:   8 ->  MyDefinitionManager.GetSessionPreloadDefinitions() - END
+2024-02-29 18:42:46.476 - Thread:   8 ->  MySandboxGame.PerformPreload() - PRELOAD VANILLA SOUNDS AND VOXELS
+2024-02-29 18:42:46.479 - Thread:   8 ->  ReloadVoxelMaterials
+2024-02-29 18:42:46.673 - Thread:   8 ->  MyDefinitionManager.GetSessionPreloadDefinitions() - START
+2024-02-29 18:42:50.890 - Thread:   1 ->     Loading Sandbox world configuration file C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\Sandbox_config.sbc
+2024-02-29 18:42:50.906 - Thread:   1 ->     Sandbox world configuration file found, overriding checkpoint settings.
+2024-02-29 18:42:50.910 - Thread:   1 ->     Server PolicyResponse (1)
+2024-02-29 18:42:50.913 - Thread:   9 ->  Downloading world mods - START
+2024-02-29 18:42:50.913 - Thread:   9 ->  Downloading world mods - END
+2024-02-29 18:42:50.931 - Thread:   1 ->     Loading session: C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27
+2024-02-29 18:42:51.046 - Thread:   1 ->     GC Memory: 69,771,152 B
+2024-02-29 18:42:51.052 - Thread:   1 ->     Process Memory: 284,672,000 B
+2024-02-29 18:42:51.057 - Thread:   1 ->     Experimental mode: Yes
+2024-02-29 18:42:51.057 - Thread:   1 ->     Experimental mode reason: ExperimentalMode, EnableIngameScripts, InsufficientHardware
+2024-02-29 18:42:51.057 - Thread:   1 ->     Console compatibility: No
+2024-02-29 18:42:56.032 - Thread:   1 ->     MyScriptManager.LoadData() - START
+2024-02-29 18:42:56.086 - Thread:   1 ->     MyScriptManager.LoadData() - END
+2024-02-29 18:42:56.094 - Thread:   1 ->     MyDefinitionManager.LoadData() - START
+2024-02-29 18:42:59.971 - Thread:   8 ->  MyDefinitionManager.GetSessionPreloadDefinitions() - END
+2024-02-29 18:42:59.971 - Thread:   8 ->  MySandboxGame.PerformPreload() - END VANILLA SOUNDS AND VOXELS
+2024-02-29 18:42:59.971 - Thread:   8 ->  MySandboxGame.PerformPreload() - END
+2024-02-29 18:42:59.974 - Thread:   1 ->     MyDefinitionManager.LoadScenarios() - START
+2024-02-29 18:42:59.992 - Thread:   1 ->        b8b670e55d821aa24024290088a675f336747040
+2024-02-29 18:43:00.217 - Thread:   1 ->        Loading scenarios
+2024-02-29 18:43:00.217 - Thread:   1 ->     MyDefinitionManager.LoadScenarios() - END
+2024-02-29 18:43:00.217 - Thread:   1 ->        List of used mods (0) - START
+2024-02-29 18:43:00.217 - Thread:   1 ->        List of used mods - END
+2024-02-29 18:43:00.438 - Thread:   1 ->        Loading behaviors
+2024-02-29 18:43:00.440 - Thread:   1 ->        Loading ammo magazines
+2024-02-29 18:43:00.445 - Thread:   1 ->        Loading ammo definitions
+2024-02-29 18:43:00.450 - Thread:   1 ->        Loading animations
+2024-02-29 18:43:00.454 - Thread:   1 ->        Loading animations
+2024-02-29 18:43:00.456 - Thread:   1 ->        Loading sound definitions
+2024-02-29 18:43:00.458 - Thread:   1 ->        Loading sound definitions
+2024-02-29 18:43:00.458 - Thread:   1 ->        Loading sound definitions
+2024-02-29 18:43:00.459 - Thread:   1 ->        Loading sound definitions
+2024-02-29 18:43:00.459 - Thread:   1 ->        Loading sound definitions
+2024-02-29 18:43:00.459 - Thread:   1 ->        Loading sound definitions
+2024-02-29 18:43:00.459 - Thread:   1 ->        Loading category classes
+2024-02-29 18:43:00.460 - Thread:   1 ->        Loading category classes
+2024-02-29 18:43:00.460 - Thread:   1 ->        Loading blueprint classes
+2024-02-29 18:43:00.462 - Thread:   1 ->        Loading blueprint class entries
+2024-02-29 18:43:00.463 - Thread:   1 ->        Loading blueprint class entries
+2024-02-29 18:43:00.463 - Thread:   1 ->        Loading blueprints
+2024-02-29 18:43:00.467 - Thread:   1 ->        Loading blueprints
+2024-02-29 18:43:00.467 - Thread:   1 ->        Loading agent definitions
+2024-02-29 18:43:00.469 - Thread:   1 ->        Loading character definitions
+2024-02-29 18:43:00.492 - Thread:   1 ->        Loading character definitions
+2024-02-29 18:43:00.492 - Thread:   1 ->        Loading components
+2024-02-29 18:43:00.494 - Thread:   1 ->        Loading components
+2024-02-29 18:43:00.494 - Thread:   1 ->        Loading configuration
+2024-02-29 18:43:00.496 - Thread:   1 ->        Loading container types
+2024-02-29 18:43:00.499 - Thread:   1 ->        Loading Contract Types
+2024-02-29 18:43:00.511 - Thread:   1 ->        Loading gamepad controls
+2024-02-29 18:43:00.513 - Thread:   1 ->        Loading block positions
+2024-02-29 18:43:00.519 - Thread:   1 ->        Loading block positions
+2024-02-29 18:43:00.519 - Thread:   1 ->        Loading curve definitions
+2024-02-29 18:43:00.524 - Thread:   1 ->        Loading debris
+2024-02-29 18:43:00.525 - Thread:   1 ->        Loading environment items entries
+2024-02-29 18:43:00.526 - Thread:   1 ->        Loading decal global definitions
+2024-02-29 18:43:00.526 - Thread:   1 ->        Loading decal definitions
+2024-02-29 18:43:00.529 - Thread:   1 ->        Loading decal definitions
+2024-02-29 18:43:00.529 - Thread:   1 ->        Loading drone behaviors
+2024-02-29 18:43:00.533 - Thread:   1 ->        Loading edges
+2024-02-29 18:43:00.534 - Thread:   1 ->        Loading emissive color definitions
+2024-02-29 18:43:00.541 - Thread:   1 ->        Loading emissive color default states
+2024-02-29 18:43:00.549 - Thread:   1 ->        Loading animations
+2024-02-29 18:43:00.549 - Thread:   1 ->        Loading entity components
+2024-02-29 18:43:00.589 - Thread:   1 ->        Loading component containers
+2024-02-29 18:43:00.611 - Thread:   1 ->        Loading environment items entries
+2024-02-29 18:43:00.612 - Thread:   1 ->        Loading Faction Names
+2024-02-29 18:43:00.613 - Thread:   1 ->        Loading factions
+2024-02-29 18:43:00.619 - Thread:   1 ->        Loading flare definitions
+2024-02-29 18:43:00.638 - Thread:   1 ->        Loading gas property definitions
+2024-02-29 18:43:00.640 - Thread:   1 ->        Loading event definitions
+2024-02-29 18:43:00.642 - Thread:   1 ->        Loading physical items
+2024-02-29 18:43:00.655 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.655 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorBottomLeft.png
+2024-02-29 18:43:00.656 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.656 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorBottomRight.png
+2024-02-29 18:43:00.656 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.656 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorTopLeft.png
+2024-02-29 18:43:00.656 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.656 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorTopRight.png
+2024-02-29 18:43:00.657 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.657 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorGlass.png
+2024-02-29 18:43:00.657 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.657 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorBottom.png
+2024-02-29 18:43:00.657 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.657 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\BackgroundGradient.png
+2024-02-29 18:43:00.658 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.658 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\leftplate.png
+2024-02-29 18:43:00.658 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.658 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\rightplate.png
+2024-02-29 18:43:00.658 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.658 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\centerplate.png
+2024-02-29 18:43:00.659 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.659 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\CenterPlateController.png
+2024-02-29 18:43:00.659 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.659 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\ToolbarColorVariant.png
+2024-02-29 18:43:00.659 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.659 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gravityindicatorcirclesmall.png
+2024-02-29 18:43:00.660 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.660 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\f1icon.png
+2024-02-29 18:43:00.660 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.660 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gravityindicatorcirclelarge.png
+2024-02-29 18:43:00.660 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.660 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gravityindicatorfill.png
+2024-02-29 18:43:00.661 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.661 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\playerhelmeton.png
+2024-02-29 18:43:00.661 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.661 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\playerhelmetoff.png
+2024-02-29 18:43:00.662 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.662 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\jetpack.png
+2024-02-29 18:43:00.662 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.662 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\jetpackoff.png
+2024-02-29 18:43:00.662 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.662 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\magboot.png
+2024-02-29 18:43:00.663 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.663 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\light.png
+2024-02-29 18:43:00.663 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.663 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\playerbroadcastingon.png
+2024-02-29 18:43:00.663 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.663 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\playerbroadcastingoff.png
+2024-02-29 18:43:00.663 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.663 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\handbrake.png
+2024-02-29 18:43:00.664 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.664 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\remotecontrolon.png
+2024-02-29 18:43:00.664 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.664 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridbroadcastingon.png
+2024-02-29 18:43:00.664 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.664 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridbroadcastingoff.png
+2024-02-29 18:43:00.665 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.665 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridpower.png
+2024-02-29 18:43:00.665 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.665 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\iconsbackground.png
+2024-02-29 18:43:00.665 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.665 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\cockpitbuildmode.png
+2024-02-29 18:43:00.665 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.666 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\suffocating.png
+2024-02-29 18:43:00.666 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.666 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\healthlow.png
+2024-02-29 18:43:00.666 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.666 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\capacity.png
+2024-02-29 18:43:00.666 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.666 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\healthicon.png
+2024-02-29 18:43:00.667 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.667 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\oxygenicon.png
+2024-02-29 18:43:00.667 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.667 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\OusideTemp.png
+2024-02-29 18:43:00.667 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.667 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\energyicon.png
+2024-02-29 18:43:00.668 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.668 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\hydrogenicon.png
+2024-02-29 18:43:00.668 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.668 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\mass.png
+2024-02-29 18:43:00.668 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.668 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbarvarianticon.png
+2024-02-29 18:43:00.669 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.669 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\progressbarbackground.png
+2024-02-29 18:43:00.669 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.669 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\progressbarbackgroundmirrored.png
+2024-02-29 18:43:00.669 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.669 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\progressbar.png
+2024-02-29 18:43:00.669 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.669 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\progressbarmirrored.png
+2024-02-29 18:43:00.670 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.670 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\bottle.png
+2024-02-29 18:43:00.670 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.670 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbariteminactive.png
+2024-02-29 18:43:00.670 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.670 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbaritemactive.png
+2024-02-29 18:43:00.671 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.671 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbarpageinactive.png
+2024-02-29 18:43:00.671 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.671 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbarpageactive.png
+2024-02-29 18:43:00.671 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.671 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\cubebuilder\gridmodelargehighl.png
+2024-02-29 18:43:00.673 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.673 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Fog_v4.dds
+2024-02-29 18:43:00.673 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.673 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gravityindicator.png
+2024-02-29 18:43:00.674 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.674 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\drillbarprogress.png
+2024-02-29 18:43:00.674 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.674 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\drillbarbackground.png
+2024-02-29 18:43:00.674 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.674 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\backpack.png
+2024-02-29 18:43:00.674 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.674 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisor.png
+2024-02-29 18:43:00.675 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.675 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\dampenersoff.png
+2024-02-29 18:43:00.675 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.675 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\dampenerson.png
+2024-02-29 18:43:00.675 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.675 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\dampenersauto.png
+2024-02-29 18:43:00.676 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.676 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridsizesmall.png
+2024-02-29 18:43:00.676 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.676 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridsizelarge.png
+2024-02-29 18:43:00.676 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.676 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\blockrotate.png
+2024-02-29 18:43:00.676 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.676 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridmirror.png
+2024-02-29 18:43:00.677 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.677 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\battery.png
+2024-02-29 18:43:00.677 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.677 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\speedometercirclepart.png
+2024-02-29 18:43:00.677 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.677 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\InventoryWeightRadialSegment.png
+2024-02-29 18:43:00.678 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.678 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\InventoryWeightRadialSegmentFirst.png
+2024-02-29 18:43:00.678 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.678 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\InventoryWeightRadialSegmentLast.png
+2024-02-29 18:43:00.678 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.678 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\InventoryRadialBackground.png
+2024-02-29 18:43:00.679 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.679 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_left_top.dds
+2024-02-29 18:43:00.679 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.679 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_left_center.dds
+2024-02-29 18:43:00.679 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.679 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_left_bottom.dds
+2024-02-29 18:43:00.679 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.679 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_center_top.dds
+2024-02-29 18:43:00.680 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.680 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_center.dds
+2024-02-29 18:43:00.680 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.680 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_center_bottom.dds
+2024-02-29 18:43:00.680 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.680 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_right_top.dds
+2024-02-29 18:43:00.681 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.681 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_right_center.dds
+2024-02-29 18:43:00.681 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.681 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_right_bottom.dds
+2024-02-29 18:43:00.681 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.681 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\reloadcircle_part.dds
+2024-02-29 18:43:00.681 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.681 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\HudAtlas0.dds
+2024-02-29 18:43:00.682 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.682 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\combobox_default_highlight_left.dds
+2024-02-29 18:43:00.682 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.682 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\combobox_default_highlight_right.dds
+2024-02-29 18:43:00.682 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.682 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\combobox_default_highlight_center.dds
+2024-02-29 18:43:00.682 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.682 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\checkbox_unchecked_highlight.dds
+2024-02-29 18:43:00.683 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.683 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_neutral.dds
+2024-02-29 18:43:00.683 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.683 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_close_symbol_bcg.dds
+2024-02-29 18:43:00.683 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.683 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_left_top.dds
+2024-02-29 18:43:00.683 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.683 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_left_bottom.dds
+2024-02-29 18:43:00.684 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.684 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_right_top.dds
+2024-02-29 18:43:00.684 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.684 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_right_bottom.dds
+2024-02-29 18:43:00.684 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.684 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_center_top.dds
+2024-02-29 18:43:00.685 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.685 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_center_bottom.dds
+2024-02-29 18:43:00.685 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.685 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_left_center.dds
+2024-02-29 18:43:00.685 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.685 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_right_center.dds
+2024-02-29 18:43:00.685 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.685 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_center.dds
+2024-02-29 18:43:00.686 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.686 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\TabGScreen.dds
+2024-02-29 18:43:00.686 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.686 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\CenterGScreen.dds
+2024-02-29 18:43:00.686 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.686 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\grid_item_highlight.dds
+2024-02-29 18:43:00.686 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.686 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\grid_item.dds
+2024-02-29 18:43:00.687 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.687 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\textbox_left_highlight.dds
+2024-02-29 18:43:00.687 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.687 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\textbox_right_highlight.dds
+2024-02-29 18:43:00.687 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.687 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\textbox_center_highlight.dds
+2024-02-29 18:43:00.687 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.688 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\hud_bg_medium_default.dds
+2024-02-29 18:43:00.688 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.688 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_character_highlight.dds
+2024-02-29 18:43:00.688 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.688 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_grid.dds
+2024-02-29 18:43:00.688 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.688 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\buttons\SquareButton.dds
+2024-02-29 18:43:00.689 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.689 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_storage.dds
+2024-02-29 18:43:00.689 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.689 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_system.dds
+2024-02-29 18:43:00.689 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.689 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_energy.dds
+2024-02-29 18:43:00.689 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.689 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_all.dds
+2024-02-29 18:43:00.690 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.690 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_character.dds
+2024-02-29 18:43:00.690 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.690 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_grid_highlight.dds
+2024-02-29 18:43:00.690 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.690 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_all_highlight.dds
+2024-02-29 18:43:00.695 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.695 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_storage_highlight.dds
+2024-02-29 18:43:00.695 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.695 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_system_highlight.dds
+2024-02-29 18:43:00.696 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.696 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_energy_highlight.dds
+2024-02-29 18:43:00.696 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.696 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_close_symbol_highlight.dds
+2024-02-29 18:43:00.696 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.696 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\slider_rail_left_highlight.dds
+2024-02-29 18:43:00.696 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.696 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\slider_rail_right_highlight.dds
+2024-02-29 18:43:00.697 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.697 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\slider_rail_center_highlight.dds
+2024-02-29 18:43:00.697 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.697 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\slider_thumb_highlight.dds
+2024-02-29 18:43:00.697 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.697 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_hide.dds
+2024-02-29 18:43:00.698 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.698 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\switch_on_off_left_highlight.dds
+2024-02-29 18:43:00.698 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.698 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\switch_on_off_right.dds
+2024-02-29 18:43:00.698 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.698 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\switch_on_off_left.dds
+2024-02-29 18:43:00.698 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.698 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\switch_on_off_right_highlight.dds
+2024-02-29 18:43:00.699 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.699 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_unhide.dds
+2024-02-29 18:43:00.699 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.699 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\checkbox_checked_highlight.dds
+2024-02-29 18:43:00.699 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.699 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\Gizmo\GizmoDrawLineGreen.dds
+2024-02-29 18:43:00.700 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.700 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbarcolorvariant.png
+2024-02-29 18:43:00.700 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.700 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\Gizmo\GizmoDrawLineRed.dds
+2024-02-29 18:43:00.700 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.700 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\hud_bg_medium_red2.dds
+2024-02-29 18:43:00.701 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.701 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\message_background_red.dds
+2024-02-29 18:43:00.701 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.701 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_red_highlight.dds
+2024-02-29 18:43:00.701 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.701 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_red.dds
+2024-02-29 18:43:00.701 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.701 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_left.dds
+2024-02-29 18:43:00.702 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.702 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_right.dds
+2024-02-29 18:43:00.702 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.702 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_center.dds
+2024-02-29 18:43:00.702 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.702 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_thumb.dds
+2024-02-29 18:43:00.703 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.703 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_left_highlight.dds
+2024-02-29 18:43:00.703 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.703 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_right_highlight.dds
+2024-02-29 18:43:00.703 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.703 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_center_highlight.dds
+2024-02-29 18:43:00.703 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.703 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_thumb_highlight.dds
+2024-02-29 18:43:00.704 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.704 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Fog_v2.dds
+2024-02-29 18:43:00.704 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.704 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Fog_v3.dds
+2024-02-29 18:43:00.704 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.704 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_enemy.dds
+2024-02-29 18:43:00.704 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.704 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_friendly.dds
+2024-02-29 18:43:00.705 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.705 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\GravityHudHorizon.dds
+2024-02-29 18:43:00.705 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.705 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\Gui\Blood.dds
+2024-02-29 18:43:00.705 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.705 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_gps.dds
+2024-02-29 18:43:00.705 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.705 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_self.dds
+2024-02-29 18:43:00.706 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.706 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Fog_v1.dds
+2024-02-29 18:43:00.706 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.706 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\Notification_bg.png
+2024-02-29 18:43:00.706 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.706 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\Notification_badge.png
+2024-02-29 18:43:00.707 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.707 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\ClaimItem.png
+2024-02-29 18:43:00.707 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.707 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Skins\RecycleIcon_small.png
+2024-02-29 18:43:00.707 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.707 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\buttons\BluePrintCloud.png
+2024-02-29 18:43:00.707 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.707 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\star.png
+2024-02-29 18:43:00.708 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.708 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\warning.png
+2024-02-29 18:43:00.708 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.708 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\BP_Steam.png
+2024-02-29 18:43:00.708 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.708 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\BP_mod.io_mixed.png
+2024-02-29 18:43:00.709 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.709 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\BP_mod.io.png
+2024-02-29 18:43:00.709 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.709 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\ByCreationDate.png
+2024-02-29 18:43:00.709 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.709 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\BP_Cloud.png
+2024-02-29 18:43:00.710 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.710 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\BP_New.png
+2024-02-29 18:43:00.710 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.710 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\BP_Local.png
+2024-02-29 18:43:00.710 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.710 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\ByUpdateDate.png
+2024-02-29 18:43:00.710 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.711 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\NoSorting.png
+2024-02-29 18:43:00.711 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.711 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\Refresh.png
+2024-02-29 18:43:00.711 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.711 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\Alphabetical.png
+2024-02-29 18:43:00.711 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.711 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\ThumbnailsOFF.png
+2024-02-29 18:43:00.712 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.712 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\ThumbnailsON.png
+2024-02-29 18:43:00.712 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.712 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\Steam.png
+2024-02-29 18:43:00.712 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.712 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\mod.io.png
+2024-02-29 18:43:00.713 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.713 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Blueprints\FolderIcon.png
+2024-02-29 18:43:00.713 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.713 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\Intro.dds
+2024-02-29 18:43:00.713 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.713 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\BasicControls.dds
+2024-02-29 18:43:00.714 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.714 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\GameModePossibilities.dds
+2024-02-29 18:43:00.714 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.714 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\DrillingRefiningAssembling.dds
+2024-02-29 18:43:00.715 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.715 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\Building1stShip.dds
+2024-02-29 18:43:00.715 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.715 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\ExperimentalMode.dds
+2024-02-29 18:43:00.716 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.716 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\Building1stVehicle.dds
+2024-02-29 18:43:00.716 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.716 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\SteamWorkshopBlueprints.dds
+2024-02-29 18:43:00.716 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.716 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\OtherAdvice.dds
+2024-02-29 18:43:00.716 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.716 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\HelpScreen\Survival.dds
+2024-02-29 18:43:00.717 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.717 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Controls/rectangle_button_center_checked.png
+2024-02-29 18:43:00.717 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.717 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/eosCB.png
+2024-02-29 18:43:00.717 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.717 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/WorkshopBrowser.dds
+2024-02-29 18:43:00.718 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.718 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Services/eos.png
+2024-02-29 18:43:00.718 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.718 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Services/eos2.png
+2024-02-29 18:43:00.718 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.718 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/Background.png
+2024-02-29 18:43:00.719 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.719 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/BackgroundChecked.png
+2024-02-29 18:43:00.719 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.719 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/BackgroundFocused.png
+2024-02-29 18:43:00.719 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.719 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/BackgroundHighlighted.png
+2024-02-29 18:43:00.720 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.720 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/CheckServiceBack.dds
+2024-02-29 18:43:00.720 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.720 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/CheckServiceBackChecked.dds
+2024-02-29 18:43:00.720 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.720 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/CheckServiceBackFocused.dds
+2024-02-29 18:43:00.721 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.721 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/CheckServiceBackHighlighted.dds
+2024-02-29 18:43:00.721 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.721 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/ModModioIcon.png
+2024-02-29 18:43:00.721 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.721 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/SteamCB.png
+2024-02-29 18:43:00.722 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.722 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/SteamCBFocused.png
+2024-02-29 18:43:00.722 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.722 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/modioCB.png
+2024-02-29 18:43:00.722 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.722 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Browser/modioCBFocused.png
+2024-02-29 18:43:00.723 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.723 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/buttons/ArrowFolderIcon.dds
+2024-02-29 18:43:00.723 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.723 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/buttons/BluePrintFolderIcon.dds
+2024-02-29 18:43:00.723 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.723 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/buttons/LocalBlueprintIcon.dds
+2024-02-29 18:43:00.724 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.724 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/buttons/ModFolderIcon.dds
+2024-02-29 18:43:00.724 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.724 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/buttons/ModModioIcon.dds
+2024-02-29 18:43:00.724 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.724 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/buttons/ModSteamIcon.dds
+2024-02-29 18:43:00.725 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.725 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Blueprints/BP_Mixed.png
+2024-02-29 18:43:00.725 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.725 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Blueprints/WNG_Service_Mixed.png
+2024-02-29 18:43:00.725 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.725 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/VoiceIconMuted.dds
+2024-02-29 18:43:00.725 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.725 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/buttons/ModModioIcon.png
+2024-02-29 18:43:00.726 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.726 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/nitrado.png
+2024-02-29 18:43:00.726 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.726 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/nitrado_highlight.png
+2024-02-29 18:43:00.726 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.726 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Services/GDK.png
+2024-02-29 18:43:00.727 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.727 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Services/Steam.png
+2024-02-29 18:43:00.727 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.727 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/Icons/Services/Xbox network.png
+2024-02-29 18:43:00.727 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.727 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/OffscreenTargetCircle.dds
+2024-02-29 18:43:00.727 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.727 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/TargetingCirclePartThick.dds
+2024-02-29 18:43:00.728 - Thread:   1 ->        GuiTextures.sbc
+2024-02-29 18:43:00.728 - Thread:   1 ->        Failed to parse texture header! Texture: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures/GUI/TargetingCirclePartThin.dds
+2024-02-29 18:43:00.739 - Thread:   1 ->        Loading LCD texture categories
+2024-02-29 18:43:00.741 - Thread:   1 ->        Loading LCD texture categories
+2024-02-29 18:43:00.741 - Thread:   1 ->        Loading LCD texture categories
+2024-02-29 18:43:00.741 - Thread:   1 ->        Loading LCD texture categories
+2024-02-29 18:43:00.741 - Thread:   1 ->        Loading LCD texture categories
+2024-02-29 18:43:00.741 - Thread:   1 ->        Loading LCD texture categories
+2024-02-29 18:43:00.742 - Thread:   1 ->        Loading OffensiveWords definitions
+2024-02-29 18:43:00.743 - Thread:   1 ->        Loading planet definition 
+2024-02-29 18:43:00.755 - Thread:   1 ->        Loading physical items
+2024-02-29 18:43:00.761 - Thread:   1 ->        Loading physical items
+2024-02-29 18:43:00.761 - Thread:   1 ->        Loading physical material properties
+2024-02-29 18:43:00.767 - Thread:   1 ->        Loading pirate antennas
+2024-02-29 18:43:00.769 - Thread:   1 ->        Loading research blocks definitions
+2024-02-29 18:43:00.771 - Thread:   1 ->        Loading research groups definitions
+2024-02-29 18:43:00.773 - Thread:   1 ->        Loading resource distribution groups
+2024-02-29 18:43:00.775 - Thread:   1 ->        Loading shadow textures definitions
+2024-02-29 18:43:00.777 - Thread:   1 ->        Loading ship sound groups
+2024-02-29 18:43:00.802 - Thread:   1 ->        Loading ship sound groups
+2024-02-29 18:43:00.803 - Thread:   1 ->        Loading sound categories
+2024-02-29 18:43:00.809 - Thread:   1 ->        Loading stat definitions
+2024-02-29 18:43:00.810 - Thread:   1 ->        Loading gamepad controls
+2024-02-29 18:43:00.812 - Thread:   1 ->        Loading grid creators
+2024-02-29 18:43:00.815 - Thread:   1 ->        Loading transparent material properties
+2024-02-29 18:43:00.817 - Thread:   1 ->        Loading planet definition 
+2024-02-29 18:43:00.817 - Thread:   1 ->        Loading voxel map storage definitions
+2024-02-29 18:43:00.821 - Thread:   1 ->        Loading voxel material definitions
+2024-02-29 18:43:00.823 - Thread:   1 ->        Loading voxel material definitions
+2024-02-29 18:43:00.823 - Thread:   1 ->        Loading voxel material definitions
+2024-02-29 18:43:00.823 - Thread:   1 ->        Loading voxel material definitions
+2024-02-29 18:43:00.823 - Thread:   1 ->        Loading Weather Effects
+2024-02-29 18:43:00.830 - Thread:   1 ->        Audio effects definitions
+2024-02-29 18:43:00.837 - Thread:   1 ->        Loading environment items definitions
+2024-02-29 18:43:00.840 - Thread:   1 ->        Loading environment items definitions
+2024-02-29 18:43:00.840 - Thread:   1 ->        Loading physical material properties
+2024-02-29 18:43:00.847 - Thread:   1 ->        Loading particle effect definitions
+2024-02-29 18:43:01.063 - Thread:   1 ->        Loading particle effect definitions
+2024-02-29 18:43:01.066 - Thread:   1 ->        Loading environment item definitions
+2024-02-29 18:43:01.076 - Thread:   1 ->        Loading weapon definitions
+2024-02-29 18:43:01.096 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.168 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.170 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.240 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.257 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.259 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.259 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.261 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.262 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.263 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.269 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.286 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.290 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.293 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.295 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.300 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.302 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.305 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.308 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.316 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.330 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.335 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.338 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.340 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.345 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.347 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.349 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.361 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.364 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.364 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.367 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.368 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.371 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.373 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.378 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.382 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.386 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.393 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.402 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.402 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.405 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.405 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.409 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.409 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.412 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.416 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.419 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.422 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.426 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.426 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.457 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.463 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.466 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.469 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.473 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.474 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.478 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.478 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.482 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.483 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.491 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.493 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.497 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.499 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.503 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.504 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.508 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.513 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.525 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.528 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.533 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.535 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.540 - Thread:   1 ->        Loading cube blocks
+2024-02-29 18:43:01.541 - Thread:   1 ->        Created block definitions
+2024-02-29 18:43:01.557 - Thread:   1 ->        Loading block variant groups
+2024-02-29 18:43:01.562 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Defender_Drone_MK_I.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Defender_Drone_Mk_II.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Grinder_Drone_Mk_I.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Grinder_Drone_Mk_II.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Mining_Drone_MK_I.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Mining_Drone_Mk_II.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Welder_Drone_Mk_I.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Welder_Drone_Mk_II.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\[O-S-L-E]_Enforcer.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ablator.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Aggressive Miner.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\AlienEasyStation.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\AlienLander.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Argentavis_mk.1.sbc
+2024-02-29 18:43:01.564 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Arke_Supply_Ship.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Armed_Transport_Charon.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\ASM-2.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Assailant_mk.1.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Atmo Constructor.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Atmospheric_Miner_mk.2.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\AtmosphericLander.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\ATV-Survivor.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\B-60 Bulk Freighter.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\B-980 Hauler.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Barb_mk.1.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Base1.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Base4.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\BaseEasyStart1.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\BaseLoneSurvivor.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Blue Ambassador Explorer.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Blue Drone MK1.sbc
+2024-02-29 18:43:01.565 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Blue Drone MK2.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\BossDroneL 1RL.2GT.1MT.2IT.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Buddy Miner.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Buggy.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Bumblebee.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Burstfire Bomber.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Camera_Creep_mk.1.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Cargo Shuttle.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Cargo_Buddy_mk.1.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\CargoShip.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Carrier_[Infinity].sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\CarrierShipProjector.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Civic Hauler.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Civil_Station.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Combatant mk.1_13 Weapons Ready.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Commercial_Salvager.sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Computer_Part_Factory_(No_Mods).sbc
+2024-02-29 18:43:01.566 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\ConstructionShip.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Constructor_mk.1.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-1.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-10.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-11.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-12.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-13.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-14.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-15.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-16.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-17.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-18.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-19.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-2.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-3.sbc
+2024-02-29 18:43:01.567 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-4.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-5.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-6.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-7.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-8.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-9.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\ContainerSpaceSmall1.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Cursor.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Deterrent_mk.1.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Blue01.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Blue02.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Blue03.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Blue04.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Red01.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Red02.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Red03.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Red04.sbc
+2024-02-29 18:43:01.568 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Dread_Hulk_Nefarious_[A2-9604-p].sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Drifting_Pursuant_mk.1.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Drill_Ship_Moon_mk.1.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Drillbot_mk.1.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneL 1RL.1GG.2IT.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneS 1GG_1.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneS 1GG_2.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneS 1GG_3.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneS 1MT.2GG.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneS 2GG.1GT.1RL.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneS 2GG.1GT.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneS 2GG.2GT.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DroneS Drill.Warhead.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DSF3_Duchessa.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Dyad_mk.1.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\EarthEasyStation.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\EasyStartPirate.sbc
+2024-02-29 18:43:01.569 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\EasyStartSpacePirate.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_MiningStation_1.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_MiningStation_2.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_MiningStation_3.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_OrbitalStation_1.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_OrbitalStation_2.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_OrbitalStation_3.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_OrbitalStation_4.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_OrbitalStation_5.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_OrbitalStation_6.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_OrbitalStation_7.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_1.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_2.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_3.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_4.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_5.sbc
+2024-02-29 18:43:01.570 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_6.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_7.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_8.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_Outpost_9.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_SpaceStation_1.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_SpaceStation_2.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_SpaceStation_3.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_SpaceStation_4.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Economy_SpaceStation_5.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Ambasador A.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Ambasador B.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Blue frame.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Citadel Station.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Corvette A.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Corvette B.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Debris A.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Debris B.sbc
+2024-02-29 18:43:01.571 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Droneyard.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Ghoul Corvette A.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Ghoul Corvette B.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Ghoul Corvette C.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Habitat Pods.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Haunted Section.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter HEC Debris A.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter HEC Debris B.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Hermit Station.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Homing beacon.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Hydro Tanker.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Imp A.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Imp B.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Industrial Ship A.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Industrial Ship B.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Mercenary Wreckage.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Mercenary.sbc
+2024-02-29 18:43:01.572 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Minefield.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Minelayer.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Mining Outpost.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Mining Vessel.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter MushStation A.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter MushStation B.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Pilgrim A.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Pilgrim B.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Pirate Raider.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Ponos-F1.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Prometheus A.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Prometheus B.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Red A.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Red B.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter RespawnShip.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter RoidStation.sbc
+2024-02-29 18:43:01.573 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter RS-1217 Transporter A.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter RS-1217 Transporter B.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Safehouse station.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Salvage station.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Section-F.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Severed Bow.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Shuttle.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Skyheart A.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Skyheart B.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Stealth pirate station.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Stingray II A.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Stingray II B.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Encounter Vulture vessel.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Enforcer_mk.2.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Eradicator_mk.1.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escord Drone.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort B-980.sbc
+2024-02-29 18:43:01.574 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort Freighter.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort HydroTanker.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort Mining1.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort Mining2.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort Trade1.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort Trade2.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort Trade3.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Escort TT-420.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Explorer.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Fighter.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Fighter2.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Fleeting_Rival_mk.1.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\CoolBox.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\Frostbite Bombing Drone Mk2.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\GatlingDrone.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\GatlingTurret Drone.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\Large Control Drone.sbc
+2024-02-29 18:43:01.575 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\Large Suport Drone.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\Mining Drone.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\MULE Drone.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\Scout Drone.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\SmartMissile Drone.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Frostbite\SpiderDrone.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Gerbil Miner.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\GLU_Jaguar_B-1,_light_Interceptor.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\GLU_Mule_A-1,_light_Freighter.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\GM2-411_Combat_Destroyer.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Grindbot_mk.1.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\H-01 Prospector.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\H-01 Sapper.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Hostile Miner.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Hydro Scout Rover.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Hydrogen_Test_Drone.sbc
+2024-02-29 18:43:01.576 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\IMDC_Cerberus_Destroyer_Mk.3.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\IMDC_Defense_Platform_NPC.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\IMDC_Vulture_Fighter_Bomber.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Imperator_mk.1.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Incisor_mk.1.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Informant_mk.1.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Insinuator_mk.1.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Instigator_mk.1.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ion Constructor.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ion Light Scout.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ion Tug Ship.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\J-Class Courier.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Kestral-Class_Assault_Fighter.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\King_Molar_mk.1.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Kite Miner.sbc
+2024-02-29 18:43:01.577 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Large_Ship_1360.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipBlue.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipRed.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipRedBuilding.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipRedCrashed.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipRedQS1.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipUnderConstruction.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LCC-3 Freighter.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Light patrol drone.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Longsword_Mk._9S.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Lunar Scout mk.2.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Lunar Scout mk.4.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MarsEasyStation.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MarsLander.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Medium-Sized_Explorer_Christine.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Military1.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Military2.sbc
+2024-02-29 18:43:01.578 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Military3.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MinerSmallShip.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MiniMerchant.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Mining1.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Mining2.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Mining3.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Molar_mk.1.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Monolith.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MoonEasyStation.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewLargeShipPrefab.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewLargeShipPrefabSurvival.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewSmallShipPrefab.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewSmallShipPrefabSurvival.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewStationPrefab.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewStationPrefabSurvival.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Old Mining Drone.sbc
+2024-02-29 18:43:01.579 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ore_Detection_Station_mk.1.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\PatrolBot.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Penguin_mk.1.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Pirate_Base_Large_mk.2.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Pirate_Base_Medium_mk.1.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\PirateBase.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Pitbull_Bomber.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Plataforma_1000.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_417.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_5546.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_6572.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_6674.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_7912.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_8820.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_9178.sbc
+2024-02-29 18:43:01.580 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform4328.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\PractiseShip.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Projector_large_ship.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Projector_small_ship.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\ProtectoBot.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\PV-4 Buggy.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\PZK_Coockie_monster_hull.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\R.U.S.T._Freighter.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raefftech_Base_Ship_(outdated).sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raider Drone.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raiding_Outpost_mk.1.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raiding_Station_-_Scourge.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\RAVEN.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raven_MkII.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Red Cruiser.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Red Drone MK1.sbc
+2024-02-29 18:43:01.581 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Renaissance.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Beacon.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Beacon2.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Comm.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_EscapePod.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_FuelTank.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Lab.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Mine.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Observatory.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_OxygenFarm.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_OxygenModule.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_PerimeterGun.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Satalite.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Satalite2.sbc
+2024-02-29 18:43:01.582 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Repair_Surveyor.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Rescue Rover 1.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\RespawnMoonPod.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\RespawnPlanetPod.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\RespawnShip.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\RespawnSpacePod.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Salvage Drone.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Scout Miner.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Scrap\Scrap_Blank.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Scrap\Scrap_Buggy.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Scrap\Scrap_Car.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Scrap\Scrap_Hatch.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Scrap\Scrap_Rod.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Scrap\Scrap_Truck.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Scrap\ScrapRaceGarage.sbc
+2024-02-29 18:43:01.583 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Seeker Mine.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SF-45.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Small Ship 5418.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Small_Grid_1642.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Small_Ship_5727.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SmallShip_SingleBlock.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Snub Fighter.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Solar Scout.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Space_Mine_mk.1.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Spaceport_Terminal.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SpawnShipAssembler.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SpawnShipDrill.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SpawnShipEscapePod.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SpawnShipRefineryAssembler.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Spiteful_Aggressor_mk.1.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Spur_mk.1.sbc
+2024-02-29 18:43:01.584 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Starfury_MkII.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\STARTERSHIP.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Stash-satellite.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Station_8315622.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Stinging_Adversary_mk.1.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SuicideShip.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\The Pilgrims Curiosity.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Thief_mk.1.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\'Tick'_Ore_Scow_and_'Mite'_Mining_Drone.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\T-Ion Fade.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\TLF-28a_(LSF_CargoShip_Mod).sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trade1.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trade2.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trade3.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trader1.sbc
+2024-02-29 18:43:01.585 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trainspark.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\TT-15 Freighter.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\TT-420 Freighter.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Turtle Miner.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Tusk.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Tusk_mk.1.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\U-92 Patrol Craft.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ubumboo_(for_Exploration).sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\V2-Gunboat.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\VehicleProjector.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Volunder_exploration_ship.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Vulture Drone.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Weapon_Platform_Gatling_mk.1.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Xedus_Ophiniam_class_Attack_Frigate.sbc
+2024-02-29 18:43:01.586 - Thread:   1 ->        Loading prefab: D:\SteamLibrary\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\YellowDrone.sbc
+2024-02-29 18:43:01.589 - Thread:   1 ->        Loading asteroid generators
+2024-02-29 18:43:01.591 - Thread:   1 ->        Loading spawn groups
+2024-02-29 18:43:01.597 - Thread:   1 ->        Loading drop containers
+2024-02-29 18:43:01.599 - Thread:   1 ->        Loading spawn groups
+2024-02-29 18:43:01.600 - Thread:   1 ->        Loading spawn groups
+2024-02-29 18:43:01.600 - Thread:   1 ->        Loading radial menu definitions
+2024-02-29 18:43:01.632 - Thread:   1 ->        Loading respawn ships
+2024-02-29 18:43:01.636 - Thread:   1 ->        Loading spawn groups
+2024-02-29 18:43:01.636 - Thread:   1 ->        Loading wheel speeds
+2024-02-29 18:43:01.829 - Thread:   1 ->     MyDefinitionManager.LoadData() - END
+2024-02-29 18:43:01.849 - Thread:   1 ->     Registered modules from: VRage.Game, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2024-02-29 18:43:01.912 - Thread:   1 ->     Registered modules from: Sandbox.Graphics, Version=0.1.1.0, Culture=neutral, PublicKeyToken=null
+2024-02-29 18:43:01.912 - Thread:   1 ->     Registered modules from: Sandbox.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2024-02-29 18:43:01.913 - Thread:   1 ->     Registered modules from: SpaceEngineers.Game, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2024-02-29 18:43:01.936 - Thread:   1 ->     Registered modules from: Sandbox.Game, Version=0.1.1.0, Culture=neutral, PublicKeyToken=null
+2024-02-29 18:43:02.385 - Thread:   1 ->     MyLights.LoadData() - START
+2024-02-29 18:43:02.389 - Thread:   1 ->        Info: MyLights preallocated lights cache created.
+2024-02-29 18:43:02.389 - Thread:   1 ->     MyLights.LoadData() - END
+2024-02-29 18:43:02.389 - Thread:   1 ->     Info: MyLights initialized.
+2024-02-29 18:43:02.389 - Thread:   1 ->     MyExplosions.LoadData() - START
+2024-02-29 18:43:02.398 - Thread:   1 ->     MyExplosions.LoadData() - END
+2024-02-29 18:43:02.520 - Thread:   1 ->     Pre-loading neutral ship spawn groups...
+2024-02-29 18:43:02.520 - Thread:   1 ->     End pre-loading neutral ship spawn groups.
+2024-02-29 18:43:02.570 - Thread:   1 ->     Loading Procedural World Generator
+2024-02-29 18:43:02.571 - Thread:   1 ->     Loading Procedural World Generator: Seed = '0' = 0, Density = 0.35
+2024-02-29 18:43:02.693 - Thread:   1 ->     Warning: Missing definition MyObjectBuilder_DemoComponentDefinition/Default : for session component DemoComponent
+2024-02-29 18:43:03.138 - Thread:   8 ->  Planet init info - MutableStorage:True StorageName:Mars-2044023682d120000 storage?:False
+2024-02-29 18:43:03.139 - Thread:   9 ->  Planet init info - MutableStorage:True StorageName:Alien-291759539d120000 storage?:False
+2024-02-29 18:43:03.139 - Thread:  10 ->  Planet init info - MutableStorage:True StorageName:Titan-2124704365d19000 storage?:False
+2024-02-29 18:43:03.139 - Thread:  11 ->  Planet init info - MutableStorage:True StorageName:Moon-1353915701d19000 storage?:False
+2024-02-29 18:43:03.139 - Thread:   1 ->     Planet init info - MutableStorage:True StorageName:EarthLike-1779144428d120000 storage?:False
+2024-02-29 18:43:03.145 - Thread:   8 ->  Loading voxel storage from file 'C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\Mars-2044023682d120000.vx2'
+2024-02-29 18:43:03.145 - Thread:   9 ->  Loading voxel storage from file 'C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\Alien-291759539d120000.vx2'
+2024-02-29 18:43:03.145 - Thread:  10 ->  Loading voxel storage from file 'C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\Titan-2124704365d19000.vx2'
+2024-02-29 18:43:03.146 - Thread:  11 ->  Loading voxel storage from file 'C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\Moon-1353915701d19000.vx2'
+2024-02-29 18:43:03.146 - Thread:   1 ->     Loading voxel storage from file 'C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\EarthLike-1779144428d120000.vx2'
+2024-02-29 18:43:11.398 - Thread:  10 ->  Info: Planet generator name: Titan
+2024-02-29 18:43:11.414 - Thread:  10 ->  Info: Planet init values: Planet init arguments: 
+Storage name: Titan-2124704365d19000
+ Storage: Sandbox.Engine.Voxels.MyOctreeStorage
+ PositionMinCorner: X:20000 Y:210000 Z:5780000
+ Radius: 0
+ AtmosphereRadius: 16625
+ MaxRadius: 0
+ MinRadius: 0
+ HasAtmosphere: True
+ AtmosphereWavelengths: {X:0.65 Y:0.57 Z:0.475}
+ GravityFalloff: 7
+ MarkAreaEmpty: True
+ AtmosphereSettings: VRageRender.Messages.MyAtmosphereSettings
+ SurfaceGravity: 0.25
+ AddGps: False
+ SpherizeWithDistance: True
+ Generator: MyObjectBuilder_PlanetGeneratorDefinition/Titan
+   EnvironmentId = <null>
+   EnvironmentDefinition = MyObjectBuilder_ProceduralWorldEnvironment/Titan
+   HasAtmosphere = True
+   CloudLayers = System.Collections.Generic.List`1[VRageRender.Messages.MyCloudLayerSettings]
+   PlanetMaps = VRage.Game.MyPlanetMaps
+   HillParams = Range[-0.03, 0.03]
+   MaterialsMaxDepth = Range[4000, 4000]
+   MaterialsMinDepth = Range[20, 20]
+   OreMappings = VRage.Game.MyPlanetOreMapping[]
+   GravityFalloffPower = 7
+   MapProvider = VRage.Game.ObjectBuilders.MyObjectBuilder_PlanetTextureMapProvider
+   HostileAtmosphereColorShift = VRage.Game.MyAtmosphereColorShift
+   SurfaceMaterialTable = VRage.Game.MyPlanetMaterialDefinition[]
+   DistortionTable = VRage.Game.MyPlanetDistortionDefinition[]
+   DefaultSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   DefaultSubSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   SoundRules = Sandbox.Definitions.MyPlanetEnvironmentalSoundRule[]
+   MusicCategories = System.Collections.Generic.List`1[VRage.Game.MyMusicCategory]
+   MaterialGroups = VRage.Game.MyPlanetMaterialGroup[]
+   MaterialEnvironmentMappings = System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.List`1[Sandbox.Definitions.MyPlanetEnvironmentMapping]]]
+   SurfaceGravity = 0.25
+   AtmosphereHeight = 0
+   SectorDensity = 0.0017
+   DefaultSurfaceTemperature = Cozy
+   Atmosphere = VRage.Game.MyPlanetAtmosphere
+   AtmosphereSettings = VRageRender.Messages.MyAtmosphereSettings
+   MaterialBlending = VRage.Game.MyPlanetMaterialBlendSettings
+   FolderName = Titan
+   Detail = VRage.Game.MyPlanetSurfaceDetail
+   AnimalSpawnInfo = VRage.Game.MyPlanetAnimalSpawnInfo
+   NightAnimalSpawnInfo = <null>
+   EnvironmentSectorType = Sandbox.Game.WorldEnvironment.MyEnvironmentSector
+   MesherPostprocessing = VRage.ObjectBuilders.Definitions.Components.MyObjectBuilder_VoxelMesherComponentDefinition
+   MinimumSurfaceLayerDepth = 5
+   StationBlockingMaterials = System.Collections.Generic.List`1[VRage.Game.MyDefinitionId]
+   WeatherGenerators = System.Collections.Generic.List`1[VRage.Game.MyWeatherGeneratorSettings]
+   WeatherFrequencyMin = 600
+   WeatherFrequencyMax = 3600
+   GlobalWeather = False
+   MaxBotCount = 16
+   MaxBotsPerPlayer = 32
+   Difficulty = DifficultyHard
+   Id = MyObjectBuilder_PlanetGeneratorDefinition/Titan
+   DisplayNameEnum = <null>
+   DescriptionEnum = <null>
+   DisplayNameString = <null>
+   DescriptionString = <null>
+   DescriptionArgs = <null>
+   Icons = <null>
+   Enabled = True
+   Public = True
+   AvailableInSurvival = True
+   Context = VRage.Game.MyModContext
+   DLCs = <null>
+   DisplayNameText = <null>
+   DescriptionText = <null>
+ UserCreated: False
+ InitializeComponents: False
+2024-02-29 18:43:11.462 - Thread:  10 ->  Planet init info - MutableStorage:True StorageName:Europa-595048092d19000 storage?:False
+2024-02-29 18:43:11.462 - Thread:  10 ->  Loading voxel storage from file 'C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\Europa-595048092d19000.vx2'
+2024-02-29 18:43:12.214 - Thread:   9 ->  Info: Planet generator name: Alien
+2024-02-29 18:43:12.215 - Thread:   9 ->  Info: Planet init values: Planet init arguments: 
+Storage name: Alien-291759539d120000
+ Storage: Sandbox.Engine.Voxels.MyOctreeStorage
+ PositionMinCorner: X:0 Y:0 Z:5600000
+ Radius: 0
+ AtmosphereRadius: 105000
+ MaxRadius: 0
+ MinRadius: 0
+ HasAtmosphere: True
+ AtmosphereWavelengths: {X:0.65 Y:0.57 Z:0.475}
+ GravityFalloff: 7
+ MarkAreaEmpty: True
+ AtmosphereSettings: VRageRender.Messages.MyAtmosphereSettings
+ SurfaceGravity: 1.1
+ AddGps: False
+ SpherizeWithDistance: True
+ Generator: MyObjectBuilder_PlanetGeneratorDefinition/Alien
+   EnvironmentId = <null>
+   EnvironmentDefinition = MyObjectBuilder_ProceduralWorldEnvironment/Alien
+   HasAtmosphere = True
+   CloudLayers = System.Collections.Generic.List`1[VRageRender.Messages.MyCloudLayerSettings]
+   PlanetMaps = VRage.Game.MyPlanetMaps
+   HillParams = Range[-0.01, 0.12]
+   MaterialsMaxDepth = Range[4000, 4000]
+   MaterialsMinDepth = Range[20, 20]
+   OreMappings = VRage.Game.MyPlanetOreMapping[]
+   GravityFalloffPower = 7
+   MapProvider = VRage.Game.ObjectBuilders.MyObjectBuilder_PlanetTextureMapProvider
+   HostileAtmosphereColorShift = VRage.Game.MyAtmosphereColorShift
+   SurfaceMaterialTable = VRage.Game.MyPlanetMaterialDefinition[]
+   DistortionTable = VRage.Game.MyPlanetDistortionDefinition[]
+   DefaultSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   DefaultSubSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   SoundRules = Sandbox.Definitions.MyPlanetEnvironmentalSoundRule[]
+   MusicCategories = System.Collections.Generic.List`1[VRage.Game.MyMusicCategory]
+   MaterialGroups = VRage.Game.MyPlanetMaterialGroup[]
+   MaterialEnvironmentMappings = System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.List`1[Sandbox.Definitions.MyPlanetEnvironmentMapping]]]
+   SurfaceGravity = 1.1
+   AtmosphereHeight = 0
+   SectorDensity = 0.0017
+   DefaultSurfaceTemperature = Cozy
+   Atmosphere = VRage.Game.MyPlanetAtmosphere
+   AtmosphereSettings = VRageRender.Messages.MyAtmosphereSettings
+   MaterialBlending = VRage.Game.MyPlanetMaterialBlendSettings
+   FolderName = Alien
+   Detail = VRage.Game.MyPlanetSurfaceDetail
+   AnimalSpawnInfo = VRage.Game.MyPlanetAnimalSpawnInfo
+   NightAnimalSpawnInfo = <null>
+   EnvironmentSectorType = Sandbox.Game.WorldEnvironment.MyEnvironmentSector
+   MesherPostprocessing = VRage.ObjectBuilders.Definitions.Components.MyObjectBuilder_VoxelMesherComponentDefinition
+   MinimumSurfaceLayerDepth = 5
+   StationBlockingMaterials = System.Collections.Generic.List`1[VRage.Game.MyDefinitionId]
+   WeatherGenerators = System.Collections.Generic.List`1[VRage.Game.MyWeatherGeneratorSettings]
+   WeatherFrequencyMin = 600
+   WeatherFrequencyMax = 1800
+   GlobalWeather = False
+   MaxBotCount = 16
+   MaxBotsPerPlayer = 32
+   Difficulty = DifficultyNormal
+   Id = MyObjectBuilder_PlanetGeneratorDefinition/Alien
+   DisplayNameEnum = <null>
+   DescriptionEnum = <null>
+   DisplayNameString = <null>
+   DescriptionString = <null>
+   DescriptionArgs = <null>
+   Icons = <null>
+   Enabled = True
+   Public = True
+   AvailableInSurvival = True
+   Context = VRage.Game.MyModContext
+   DLCs = <null>
+   DisplayNameText = <null>
+   DescriptionText = <null>
+ UserCreated: False
+ InitializeComponents: False
+2024-02-29 18:43:12.215 - Thread:   9 ->  Planet init info - MutableStorage:True StorageName:Triton-12345d80253 storage?:False
+2024-02-29 18:43:12.216 - Thread:   9 ->  Loading voxel storage from file 'C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\Triton-12345d80253.vx2'
+2024-02-29 18:43:13.392 - Thread:   8 ->  Info: Planet generator name: Mars
+2024-02-29 18:43:13.393 - Thread:   8 ->  Info: Planet init values: Planet init arguments: 
+Storage name: Mars-2044023682d120000
+ Storage: Sandbox.Engine.Voxels.MyOctreeStorage
+ PositionMinCorner: X:900000 Y:0 Z:1500000
+ Radius: 0
+ AtmosphereRadius: 105000
+ MaxRadius: 0
+ MinRadius: 0
+ HasAtmosphere: True
+ AtmosphereWavelengths: {X:0.65 Y:0.57 Z:0.475}
+ GravityFalloff: 7
+ MarkAreaEmpty: True
+ AtmosphereSettings: VRageRender.Messages.MyAtmosphereSettings
+ SurfaceGravity: 0.9
+ AddGps: False
+ SpherizeWithDistance: True
+ Generator: MyObjectBuilder_PlanetGeneratorDefinition/Mars
+   EnvironmentId = <null>
+   EnvironmentDefinition = MyObjectBuilder_ProceduralWorldEnvironment/Mars
+   HasAtmosphere = True
+   CloudLayers = System.Collections.Generic.List`1[VRageRender.Messages.MyCloudLayerSettings]
+   PlanetMaps = VRage.Game.MyPlanetMaps
+   HillParams = Range[-0.01, 0.12]
+   MaterialsMaxDepth = Range[4000, 4000]
+   MaterialsMinDepth = Range[20, 20]
+   OreMappings = VRage.Game.MyPlanetOreMapping[]
+   GravityFalloffPower = 7
+   MapProvider = VRage.Game.ObjectBuilders.MyObjectBuilder_PlanetTextureMapProvider
+   HostileAtmosphereColorShift = VRage.Game.MyAtmosphereColorShift
+   SurfaceMaterialTable = VRage.Game.MyPlanetMaterialDefinition[]
+   DistortionTable = VRage.Game.MyPlanetDistortionDefinition[]
+   DefaultSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   DefaultSubSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   SoundRules = Sandbox.Definitions.MyPlanetEnvironmentalSoundRule[]
+   MusicCategories = System.Collections.Generic.List`1[VRage.Game.MyMusicCategory]
+   MaterialGroups = VRage.Game.MyPlanetMaterialGroup[]
+   MaterialEnvironmentMappings = System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.List`1[Sandbox.Definitions.MyPlanetEnvironmentMapping]]]
+   SurfaceGravity = 0.9
+   AtmosphereHeight = 0
+   SectorDensity = 0.0017
+   DefaultSurfaceTemperature = Cozy
+   Atmosphere = VRage.Game.MyPlanetAtmosphere
+   AtmosphereSettings = VRageRender.Messages.MyAtmosphereSettings
+   MaterialBlending = VRage.Game.MyPlanetMaterialBlendSettings
+   FolderName = Mars
+   Detail = VRage.Game.MyPlanetSurfaceDetail
+   AnimalSpawnInfo = <null>
+   NightAnimalSpawnInfo = <null>
+   EnvironmentSectorType = Sandbox.Game.WorldEnvironment.MyEnvironmentSector
+   MesherPostprocessing = VRage.ObjectBuilders.Definitions.Components.MyObjectBuilder_VoxelMesherComponentDefinition
+   MinimumSurfaceLayerDepth = 5
+   StationBlockingMaterials = System.Collections.Generic.List`1[VRage.Game.MyDefinitionId]
+   WeatherGenerators = System.Collections.Generic.List`1[VRage.Game.MyWeatherGeneratorSettings]
+   WeatherFrequencyMin = 1800
+   WeatherFrequencyMax = 5400
+   GlobalWeather = False
+   MaxBotCount = 16
+   MaxBotsPerPlayer = 32
+   Difficulty = DifficultyNormal
+   Id = MyObjectBuilder_PlanetGeneratorDefinition/Mars
+   DisplayNameEnum = <null>
+   DescriptionEnum = <null>
+   DisplayNameString = <null>
+   DescriptionString = <null>
+   DescriptionArgs = <null>
+   Icons = <null>
+   Enabled = True
+   Public = True
+   AvailableInSurvival = True
+   Context = VRage.Game.MyModContext
+   DLCs = <null>
+   DisplayNameText = <null>
+   DescriptionText = <null>
+ UserCreated: False
+ InitializeComponents: False
+2024-02-29 18:43:13.393 - Thread:   8 ->  Planet init info - MutableStorage:True StorageName:Pertam-12345d60133 storage?:False
+2024-02-29 18:43:13.393 - Thread:   8 ->  Loading voxel storage from file 'C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\Pertam-12345d60133.vx2'
+2024-02-29 18:43:13.676 - Thread:   1 ->     Info: Planet generator name: EarthLike
+2024-02-29 18:43:13.677 - Thread:   1 ->     Info: Planet init values: Planet init arguments: 
+Storage name: EarthLike-1779144428d120000
+ Storage: Sandbox.Engine.Voxels.MyOctreeStorage
+ PositionMinCorner: X:-131072 Y:-131072 Z:-131072
+ Radius: 0
+ AtmosphereRadius: 105000
+ MaxRadius: 0
+ MinRadius: 0
+ HasAtmosphere: True
+ AtmosphereWavelengths: {X:0.65 Y:0.57 Z:0.475}
+ GravityFalloff: 7
+ MarkAreaEmpty: True
+ AtmosphereSettings: VRageRender.Messages.MyAtmosphereSettings
+ SurfaceGravity: 1
+ AddGps: False
+ SpherizeWithDistance: True
+ Generator: MyObjectBuilder_PlanetGeneratorDefinition/EarthLike
+   EnvironmentId = <null>
+   EnvironmentDefinition = MyObjectBuilder_ProceduralWorldEnvironment/EarthLike
+   HasAtmosphere = True
+   CloudLayers = System.Collections.Generic.List`1[VRageRender.Messages.MyCloudLayerSettings]
+   PlanetMaps = VRage.Game.MyPlanetMaps
+   HillParams = Range[-0.01, 0.12]
+   MaterialsMaxDepth = Range[4000, 4000]
+   MaterialsMinDepth = Range[20, 20]
+   OreMappings = VRage.Game.MyPlanetOreMapping[]
+   GravityFalloffPower = 7
+   MapProvider = VRage.Game.ObjectBuilders.MyObjectBuilder_PlanetTextureMapProvider
+   HostileAtmosphereColorShift = VRage.Game.MyAtmosphereColorShift
+   SurfaceMaterialTable = VRage.Game.MyPlanetMaterialDefinition[]
+   DistortionTable = VRage.Game.MyPlanetDistortionDefinition[]
+   DefaultSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   DefaultSubSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   SoundRules = Sandbox.Definitions.MyPlanetEnvironmentalSoundRule[]
+   MusicCategories = System.Collections.Generic.List`1[VRage.Game.MyMusicCategory]
+   MaterialGroups = VRage.Game.MyPlanetMaterialGroup[]
+   MaterialEnvironmentMappings = System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.List`1[Sandbox.Definitions.MyPlanetEnvironmentMapping]]]
+   SurfaceGravity = 1
+   AtmosphereHeight = 0
+   SectorDensity = 0.0017
+   DefaultSurfaceTemperature = Cozy
+   Atmosphere = VRage.Game.MyPlanetAtmosphere
+   AtmosphereSettings = VRageRender.Messages.MyAtmosphereSettings
+   MaterialBlending = VRage.Game.MyPlanetMaterialBlendSettings
+   FolderName = EarthLike
+   Detail = VRage.Game.MyPlanetSurfaceDetail
+   AnimalSpawnInfo = VRage.Game.MyPlanetAnimalSpawnInfo
+   NightAnimalSpawnInfo = VRage.Game.MyPlanetAnimalSpawnInfo
+   EnvironmentSectorType = Sandbox.Game.WorldEnvironment.MyEnvironmentSector
+   MesherPostprocessing = VRage.ObjectBuilders.Definitions.Components.MyObjectBuilder_VoxelMesherComponentDefinition
+   MinimumSurfaceLayerDepth = 5
+   StationBlockingMaterials = System.Collections.Generic.List`1[VRage.Game.MyDefinitionId]
+   WeatherGenerators = System.Collections.Generic.List`1[VRage.Game.MyWeatherGeneratorSettings]
+   WeatherFrequencyMin = 600
+   WeatherFrequencyMax = 5400
+   GlobalWeather = False
+   MaxBotCount = 16
+   MaxBotsPerPlayer = 32
+   Difficulty = DifficultyEasy
+   Id = MyObjectBuilder_PlanetGeneratorDefinition/EarthLike
+   DisplayNameEnum = <null>
+   DescriptionEnum = <null>
+   DisplayNameString = <null>
+   DescriptionString = <null>
+   DescriptionArgs = <null>
+   Icons = <null>
+   Enabled = True
+   Public = True
+   AvailableInSurvival = True
+   Context = VRage.Game.MyModContext
+   DLCs = <null>
+   DisplayNameText = <null>
+   DescriptionText = <null>
+ UserCreated: False
+ InitializeComponents: False
+2024-02-29 18:43:15.110 - Thread:  11 ->  Info: Planet generator name: Moon
+2024-02-29 18:43:15.111 - Thread:  11 ->  Info: Planet init values: Planet init arguments: 
+Storage name: Moon-1353915701d19000
+ Storage: Sandbox.Engine.Voxels.MyOctreeStorage
+ PositionMinCorner: X:0 Y:120000 Z:-130000
+ Radius: 0
+ AtmosphereRadius: 16625
+ MaxRadius: 0
+ MinRadius: 0
+ HasAtmosphere: False
+ AtmosphereWavelengths: {X:0.65 Y:0.57 Z:0.475}
+ GravityFalloff: 7
+ MarkAreaEmpty: True
+ AtmosphereSettings: VRageRender.Messages.MyAtmosphereSettings
+ SurfaceGravity: 0.25
+ AddGps: False
+ SpherizeWithDistance: True
+ Generator: MyObjectBuilder_PlanetGeneratorDefinition/Moon
+   EnvironmentId = <null>
+   EnvironmentDefinition = MyObjectBuilder_ProceduralWorldEnvironment/Moon
+   HasAtmosphere = False
+   CloudLayers = System.Collections.Generic.List`1[VRageRender.Messages.MyCloudLayerSettings]
+   PlanetMaps = VRage.Game.MyPlanetMaps
+   HillParams = Range[-0.03, 0.03]
+   MaterialsMaxDepth = Range[4000, 4000]
+   MaterialsMinDepth = Range[20, 20]
+   OreMappings = VRage.Game.MyPlanetOreMapping[]
+   GravityFalloffPower = 7
+   MapProvider = VRage.Game.ObjectBuilders.MyObjectBuilder_PlanetTextureMapProvider
+   HostileAtmosphereColorShift = VRage.Game.MyAtmosphereColorShift
+   SurfaceMaterialTable = VRage.Game.MyPlanetMaterialDefinition[]
+   DistortionTable = VRage.Game.MyPlanetDistortionDefinition[]
+   DefaultSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   DefaultSubSurfaceMaterial = <null>
+   SoundRules = Sandbox.Definitions.MyPlanetEnvironmentalSoundRule[]
+   MusicCategories = System.Collections.Generic.List`1[VRage.Game.MyMusicCategory]
+   MaterialGroups = VRage.Game.MyPlanetMaterialGroup[]
+   MaterialEnvironmentMappings = System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.List`1[Sandbox.Definitions.MyPlanetEnvironmentMapping]]]
+   SurfaceGravity = 0.25
+   AtmosphereHeight = 0
+   SectorDensity = 0.0017
+   DefaultSurfaceTemperature = Cozy
+   Atmosphere = VRage.Game.MyPlanetAtmosphere
+   AtmosphereSettings = <null>
+   MaterialBlending = VRage.Game.MyPlanetMaterialBlendSettings
+   FolderName = Moon
+   Detail = VRage.Game.MyPlanetSurfaceDetail
+   AnimalSpawnInfo = <null>
+   NightAnimalSpawnInfo = <null>
+   EnvironmentSectorType = Sandbox.Game.WorldEnvironment.MyEnvironmentSector
+   MesherPostprocessing = VRage.ObjectBuilders.Definitions.Components.MyObjectBuilder_VoxelMesherComponentDefinition
+   MinimumSurfaceLayerDepth = 5
+   StationBlockingMaterials = System.Collections.Generic.List`1[VRage.Game.MyDefinitionId]
+   WeatherGenerators = System.Collections.Generic.List`1[VRage.Game.MyWeatherGeneratorSettings]
+   WeatherFrequencyMin = 0
+   WeatherFrequencyMax = 0
+   GlobalWeather = False
+   MaxBotCount = 16
+   MaxBotsPerPlayer = 32
+   Difficulty = DifficultyHard
+   Id = MyObjectBuilder_PlanetGeneratorDefinition/Moon
+   DisplayNameEnum = <null>
+   DescriptionEnum = <null>
+   DisplayNameString = <null>
+   DescriptionString = <null>
+   DescriptionArgs = <null>
+   Icons = <null>
+   Enabled = True
+   Public = True
+   AvailableInSurvival = True
+   Context = VRage.Game.MyModContext
+   DLCs = <null>
+   DisplayNameText = <null>
+   DescriptionText = <null>
+ UserCreated: False
+ InitializeComponents: False
+2024-02-29 18:43:17.406 - Thread:  10 ->  Info: Planet generator name: Europa
+2024-02-29 18:43:17.408 - Thread:  10 ->  Info: Planet init values: Planet init arguments: 
+Storage name: Europa-595048092d19000
+ Storage: Sandbox.Engine.Voxels.MyOctreeStorage
+ PositionMinCorner: X:900000 Y:0 Z:1600000
+ Radius: 0
+ AtmosphereRadius: 16625
+ MaxRadius: 0
+ MinRadius: 0
+ HasAtmosphere: True
+ AtmosphereWavelengths: {X:0.65 Y:0.57 Z:0.475}
+ GravityFalloff: 7
+ MarkAreaEmpty: True
+ AtmosphereSettings: VRageRender.Messages.MyAtmosphereSettings
+ SurfaceGravity: 0.25
+ AddGps: False
+ SpherizeWithDistance: True
+ Generator: MyObjectBuilder_PlanetGeneratorDefinition/Europa
+   EnvironmentId = <null>
+   EnvironmentDefinition = MyObjectBuilder_ProceduralWorldEnvironment/Europa
+   HasAtmosphere = True
+   CloudLayers = System.Collections.Generic.List`1[VRageRender.Messages.MyCloudLayerSettings]
+   PlanetMaps = VRage.Game.MyPlanetMaps
+   HillParams = Range[-0.03, 0.06]
+   MaterialsMaxDepth = Range[4000, 4000]
+   MaterialsMinDepth = Range[20, 20]
+   OreMappings = VRage.Game.MyPlanetOreMapping[]
+   GravityFalloffPower = 7
+   MapProvider = VRage.Game.ObjectBuilders.MyObjectBuilder_PlanetTextureMapProvider
+   HostileAtmosphereColorShift = VRage.Game.MyAtmosphereColorShift
+   SurfaceMaterialTable = VRage.Game.MyPlanetMaterialDefinition[]
+   DistortionTable = VRage.Game.MyPlanetDistortionDefinition[]
+   DefaultSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   DefaultSubSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   SoundRules = Sandbox.Definitions.MyPlanetEnvironmentalSoundRule[]
+   MusicCategories = System.Collections.Generic.List`1[VRage.Game.MyMusicCategory]
+   MaterialGroups = VRage.Game.MyPlanetMaterialGroup[]
+   MaterialEnvironmentMappings = System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.List`1[Sandbox.Definitions.MyPlanetEnvironmentMapping]]]
+   SurfaceGravity = 0.25
+   AtmosphereHeight = 0
+   SectorDensity = 0.0017
+   DefaultSurfaceTemperature = Cozy
+   Atmosphere = VRage.Game.MyPlanetAtmosphere
+   AtmosphereSettings = VRageRender.Messages.MyAtmosphereSettings
+   MaterialBlending = VRage.Game.MyPlanetMaterialBlendSettings
+   FolderName = Europa
+   Detail = VRage.Game.MyPlanetSurfaceDetail
+   AnimalSpawnInfo = <null>
+   NightAnimalSpawnInfo = <null>
+   EnvironmentSectorType = Sandbox.Game.WorldEnvironment.MyEnvironmentSector
+   MesherPostprocessing = VRage.ObjectBuilders.Definitions.Components.MyObjectBuilder_VoxelMesherComponentDefinition
+   MinimumSurfaceLayerDepth = 5
+   StationBlockingMaterials = System.Collections.Generic.List`1[VRage.Game.MyDefinitionId]
+   WeatherGenerators = System.Collections.Generic.List`1[VRage.Game.MyWeatherGeneratorSettings]
+   WeatherFrequencyMin = 300
+   WeatherFrequencyMax = 600
+   GlobalWeather = True
+   MaxBotCount = 16
+   MaxBotsPerPlayer = 32
+   Difficulty = DifficultyHard
+   Id = MyObjectBuilder_PlanetGeneratorDefinition/Europa
+   DisplayNameEnum = <null>
+   DescriptionEnum = <null>
+   DisplayNameString = <null>
+   DescriptionString = <null>
+   DescriptionArgs = <null>
+   Icons = <null>
+   Enabled = True
+   Public = True
+   AvailableInSurvival = True
+   Context = VRage.Game.MyModContext
+   DLCs = <null>
+   DisplayNameText = <null>
+   DescriptionText = <null>
+ UserCreated: False
+ InitializeComponents: False
+2024-02-29 18:43:18.398 - Thread:   9 ->  Info: Planet generator name: Triton
+2024-02-29 18:43:18.399 - Thread:   9 ->  Info: Planet init values: Planet init arguments: 
+Storage name: Triton-12345d80253
+ Storage: Sandbox.Engine.Voxels.MyOctreeStorage
+ PositionMinCorner: X:-350000 Y:-2500000 Z:300000
+ Radius: 0
+ AtmosphereRadius: 70221.38
+ MaxRadius: 0
+ MinRadius: 0
+ HasAtmosphere: True
+ AtmosphereWavelengths: {X:0.65 Y:0.57 Z:0.475}
+ GravityFalloff: 7
+ MarkAreaEmpty: True
+ AtmosphereSettings: VRageRender.Messages.MyAtmosphereSettings
+ SurfaceGravity: 1
+ AddGps: False
+ SpherizeWithDistance: True
+ Generator: MyObjectBuilder_PlanetGeneratorDefinition/Triton
+   EnvironmentId = <null>
+   EnvironmentDefinition = MyObjectBuilder_ProceduralWorldEnvironment/Triton
+   HasAtmosphere = True
+   CloudLayers = System.Collections.Generic.List`1[VRageRender.Messages.MyCloudLayerSettings]
+   PlanetMaps = VRage.Game.MyPlanetMaps
+   HillParams = Range[-0.05, 0.2]
+   MaterialsMaxDepth = Range[4000, 4000]
+   MaterialsMinDepth = Range[20, 20]
+   OreMappings = VRage.Game.MyPlanetOreMapping[]
+   GravityFalloffPower = 7
+   MapProvider = VRage.Game.ObjectBuilders.MyObjectBuilder_PlanetTextureMapProvider
+   HostileAtmosphereColorShift = VRage.Game.MyAtmosphereColorShift
+   SurfaceMaterialTable = VRage.Game.MyPlanetMaterialDefinition[]
+   DistortionTable = VRage.Game.MyPlanetDistortionDefinition[]
+   DefaultSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   DefaultSubSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   SoundRules = Sandbox.Definitions.MyPlanetEnvironmentalSoundRule[]
+   MusicCategories = System.Collections.Generic.List`1[VRage.Game.MyMusicCategory]
+   MaterialGroups = VRage.Game.MyPlanetMaterialGroup[]
+   MaterialEnvironmentMappings = System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.List`1[Sandbox.Definitions.MyPlanetEnvironmentMapping]]]
+   SurfaceGravity = 1
+   AtmosphereHeight = 0
+   SectorDensity = 0.0017
+   DefaultSurfaceTemperature = ExtremeFreeze
+   Atmosphere = VRage.Game.MyPlanetAtmosphere
+   AtmosphereSettings = VRageRender.Messages.MyAtmosphereSettings
+   MaterialBlending = VRage.Game.MyPlanetMaterialBlendSettings
+   FolderName = Triton
+   Detail = VRage.Game.MyPlanetSurfaceDetail
+   AnimalSpawnInfo = <null>
+   NightAnimalSpawnInfo = <null>
+   EnvironmentSectorType = Sandbox.Game.WorldEnvironment.MyEnvironmentSector
+   MesherPostprocessing = VRage.ObjectBuilders.Definitions.Components.MyObjectBuilder_VoxelMesherComponentDefinition
+   MinimumSurfaceLayerDepth = 5
+   StationBlockingMaterials = System.Collections.Generic.List`1[VRage.Game.MyDefinitionId]
+   WeatherGenerators = System.Collections.Generic.List`1[VRage.Game.MyWeatherGeneratorSettings]
+   WeatherFrequencyMin = 1200
+   WeatherFrequencyMax = 3600
+   GlobalWeather = False
+   MaxBotCount = 16
+   MaxBotsPerPlayer = 32
+   Difficulty = DifficultyEasy
+   Id = MyObjectBuilder_PlanetGeneratorDefinition/Triton
+   DisplayNameEnum = <null>
+   DescriptionEnum = <null>
+   DisplayNameString = <null>
+   DescriptionString = <null>
+   DescriptionArgs = <null>
+   Icons = <null>
+   Enabled = True
+   Public = True
+   AvailableInSurvival = True
+   Context = VRage.Game.MyModContext
+   DLCs = <null>
+   DisplayNameText = <null>
+   DescriptionText = <null>
+ UserCreated: False
+ InitializeComponents: False
+2024-02-29 18:43:18.535 - Thread:   8 ->  Info: Planet generator name: Pertam
+2024-02-29 18:43:18.536 - Thread:   8 ->  Info: Planet init values: Planet init arguments: 
+Storage name: Pertam-12345d60133
+ Storage: Sandbox.Engine.Voxels.MyOctreeStorage
+ PositionMinCorner: X:-4000000 Y:-65000 Z:-800000
+ Radius: 0
+ AtmosphereRadius: 52616.38
+ MaxRadius: 0
+ MinRadius: 0
+ HasAtmosphere: True
+ AtmosphereWavelengths: {X:0.65 Y:0.57 Z:0.475}
+ GravityFalloff: 7
+ MarkAreaEmpty: True
+ AtmosphereSettings: VRageRender.Messages.MyAtmosphereSettings
+ SurfaceGravity: 1.2
+ AddGps: False
+ SpherizeWithDistance: True
+ Generator: MyObjectBuilder_PlanetGeneratorDefinition/Pertam
+   EnvironmentId = <null>
+   EnvironmentDefinition = MyObjectBuilder_ProceduralWorldEnvironment/Pertam
+   HasAtmosphere = True
+   CloudLayers = System.Collections.Generic.List`1[VRageRender.Messages.MyCloudLayerSettings]
+   PlanetMaps = VRage.Game.MyPlanetMaps
+   HillParams = Range[-0.025, 0.025]
+   MaterialsMaxDepth = Range[4000, 4000]
+   MaterialsMinDepth = Range[20, 20]
+   OreMappings = VRage.Game.MyPlanetOreMapping[]
+   GravityFalloffPower = 7
+   MapProvider = VRage.Game.ObjectBuilders.MyObjectBuilder_PlanetTextureMapProvider
+   HostileAtmosphereColorShift = VRage.Game.MyAtmosphereColorShift
+   SurfaceMaterialTable = VRage.Game.MyPlanetMaterialDefinition[]
+   DistortionTable = VRage.Game.MyPlanetDistortionDefinition[]
+   DefaultSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   DefaultSubSurfaceMaterial = VRage.Game.MyPlanetMaterialDefinition
+   SoundRules = Sandbox.Definitions.MyPlanetEnvironmentalSoundRule[]
+   MusicCategories = System.Collections.Generic.List`1[VRage.Game.MyMusicCategory]
+   MaterialGroups = VRage.Game.MyPlanetMaterialGroup[]
+   MaterialEnvironmentMappings = System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.List`1[Sandbox.Definitions.MyPlanetEnvironmentMapping]]]
+   SurfaceGravity = 1.2
+   AtmosphereHeight = 0
+   SectorDensity = 0.0017
+   DefaultSurfaceTemperature = Cozy
+   Atmosphere = VRage.Game.MyPlanetAtmosphere
+   AtmosphereSettings = VRageRender.Messages.MyAtmosphereSettings
+   MaterialBlending = VRage.Game.MyPlanetMaterialBlendSettings
+   FolderName = Pertam
+   Detail = VRage.Game.MyPlanetSurfaceDetail
+   AnimalSpawnInfo = VRage.Game.MyPlanetAnimalSpawnInfo
+   NightAnimalSpawnInfo = <null>
+   EnvironmentSectorType = Sandbox.Game.WorldEnvironment.MyEnvironmentSector
+   MesherPostprocessing = VRage.ObjectBuilders.Definitions.Components.MyObjectBuilder_VoxelMesherComponentDefinition
+   MinimumSurfaceLayerDepth = 1
+   StationBlockingMaterials = System.Collections.Generic.List`1[VRage.Game.MyDefinitionId]
+   WeatherGenerators = System.Collections.Generic.List`1[VRage.Game.MyWeatherGeneratorSettings]
+   WeatherFrequencyMin = 600
+   WeatherFrequencyMax = 5400
+   GlobalWeather = False
+   MaxBotCount = 16
+   MaxBotsPerPlayer = 32
+   Difficulty = DifficultyHard
+   Id = MyObjectBuilder_PlanetGeneratorDefinition/Pertam
+   DisplayNameEnum = <null>
+   DescriptionEnum = <null>
+   DisplayNameString = <null>
+   DescriptionString = <null>
+   DescriptionArgs = <null>
+   Icons = <null>
+   Enabled = True
+   Public = True
+   AvailableInSurvival = True
+   Context = VRage.Game.MyModContext
+   DLCs = <null>
+   DisplayNameText = <null>
+   DescriptionText = <null>
+ UserCreated: False
+ InitializeComponents: False
+2024-02-29 18:43:18.537 - Thread:   1 ->     Entities loaded & initialized
+2024-02-29 18:43:18.559 - Thread:   1 ->     Checkpoint.CameraAttachedTo: 137658261568108514
+2024-02-29 18:43:18.559 - Thread:   1 ->     ERROR: Camera entity from checkpoint does not exists!
+2024-02-29 18:43:18.611 - Thread:   1 ->     MySession.Static.LogSettings - START
+2024-02-29 18:43:18.611 - Thread:   1 ->        Name = Star System
+2024-02-29 18:43:18.611 - Thread:   1 ->        Description = 
+2024-02-29 18:43:18.611 - Thread:   1 ->        GameDateTime = 01/01/2081 00:03:38
+2024-02-29 18:43:18.611 - Thread:   1 ->        Password = 
+2024-02-29 18:43:18.611 - Thread:   1 ->        CurrentPath = C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27
+2024-02-29 18:43:18.611 - Thread:   1 ->        WorkshopId = 
+2024-02-29 18:43:18.611 - Thread:   1 ->        CameraController = Sandbox.Engine.Utils.MySpectatorCameraController
+2024-02-29 18:43:18.611 - Thread:   1 ->        ThumbPath = C:\Users\kenod\AppData\Roaming\SpaceEngineersDedicated\Saves\Star System 02-29-2024 18-42-27\thumb.jpg
+2024-02-29 18:43:18.623 - Thread:   1 ->        Settings:
+2024-02-29 18:43:18.623 - Thread:   1 ->           GameMode = Survival
+2024-02-29 18:43:18.623 - Thread:   1 ->           MaxPlayers = 4
+2024-02-29 18:43:18.623 - Thread:   1 ->           OnlineMode = PUBLIC
+2024-02-29 18:43:18.623 - Thread:   1 ->           TotalPCU = 100000
+2024-02-29 18:43:18.623 - Thread:   1 ->           PiratePCU = 50000
+2024-02-29 18:43:18.623 - Thread:   1 ->           AutoHealing = True
+2024-02-29 18:43:18.623 - Thread:   1 ->           WeaponsEnabled = True
+2024-02-29 18:43:18.623 - Thread:   1 ->           ThrusterDamage = False
+2024-02-29 18:43:18.623 - Thread:   1 ->           EnableSpectator = False
+2024-02-29 18:43:18.623 - Thread:   1 ->           EnableCopyPaste = False
+2024-02-29 18:43:18.623 - Thread:   1 ->           MaxFloatingObjects = 100
+2024-02-29 18:43:18.623 - Thread:   1 ->           MaxGridSize = 0
+2024-02-29 18:43:18.623 - Thread:   1 ->           MaxBlocksPerPlayer = 0
+2024-02-29 18:43:18.623 - Thread:   1 ->           CargoShipsEnabled = True
+2024-02-29 18:43:18.623 - Thread:   1 ->           EnvironmentHostility = NORMAL
+2024-02-29 18:43:18.623 - Thread:   1 ->           ShowPlayerNamesOnHud = True
+2024-02-29 18:43:18.623 - Thread:   1 ->           InventorySizeMultiplier = 6
+2024-02-29 18:43:18.623 - Thread:   1 ->           BlocksInventorySizeMultiplier = 1
+2024-02-29 18:43:18.623 - Thread:   1 ->           RefinerySpeedMultiplier = 4
+2024-02-29 18:43:18.624 - Thread:   1 ->           AssemblerSpeedMultiplier = 5
+2024-02-29 18:43:18.624 - Thread:   1 ->           AssemblerEfficiencyMultiplier = 5
+2024-02-29 18:43:18.624 - Thread:   1 ->           WelderSpeedMultiplier = 3
+2024-02-29 18:43:18.624 - Thread:   1 ->           GrinderSpeedMultiplier = 4
+2024-02-29 18:43:18.624 - Thread:   1 ->           ClientCanSave = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           HackSpeedMultiplier = 0.7
+2024-02-29 18:43:18.624 - Thread:   1 ->           PermanentDeath = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           DestructibleBlocks =  True
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableScripts =  True
+2024-02-29 18:43:18.624 - Thread:   1 ->           AutoSaveInMinutes = 10
+2024-02-29 18:43:18.624 - Thread:   1 ->           SpawnShipTimeMultiplier = 0
+2024-02-29 18:43:18.624 - Thread:   1 ->           ProceduralDensity = 0.35
+2024-02-29 18:43:18.624 - Thread:   1 ->           ProceduralSeed = 0
+2024-02-29 18:43:18.624 - Thread:   1 ->           DestructibleBlocks = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableIngameScripts = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           ViewDistance = 15000
+2024-02-29 18:43:18.624 - Thread:   1 ->           Voxel destruction = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableStructuralSimulation = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           MaxActiveFracturePieces = 50
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableContainerDrops = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           MinDropContainerRespawnTime = 5
+2024-02-29 18:43:18.624 - Thread:   1 ->           MaxDropContainerRespawnTime = 20
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableTurretsFriendlyFire = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableSubgridDamage = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           SyncDistance = 3000
+2024-02-29 18:43:18.624 - Thread:   1 ->           BlockLimitsEnabled = GLOBALLY
+2024-02-29 18:43:18.624 - Thread:   1 ->           AFKTimeoutMin = 0
+2024-02-29 18:43:18.624 - Thread:   1 ->           StopGridsPeriodMin = 15
+2024-02-29 18:43:18.624 - Thread:   1 ->           MaxPlanets = 99
+2024-02-29 18:43:18.624 - Thread:   1 ->           MaxBackupSaves = 5
+2024-02-29 18:43:18.624 - Thread:   1 ->           MaxFactionsCount = 0
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableRemoteBlockRemoval = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           RespawnShipDelete = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           WorldSizeKm = 0
+2024-02-29 18:43:18.624 - Thread:   1 ->           ResetOwnership = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           RealisticSound = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableSaving = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           InfiniteAmmo = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableToolShake = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           VoxelGeneratorVersion = 4
+2024-02-29 18:43:18.624 - Thread:   1 ->           OffensiveWordsFiltering = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           UseConsolePCU = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           PredefinedAsteroids = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableSelectivePhysicsUpdates = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           FamilySharing = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnablePcuTrading = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           SuppressedWarnings = 
+2024-02-29 18:43:18.624 - Thread:   1 ->           SimplifiedSimulation = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           EconomyTickInSeconds = 1200
+2024-02-29 18:43:18.624 - Thread:   1 ->           StationsDistanceOuterRadiusEnd = 30000000
+2024-02-29 18:43:18.624 - Thread:   1 ->           StationsDistanceOuterRadiusStart = 10000000
+2024-02-29 18:43:18.624 - Thread:   1 ->           StationsDistanceInnerRadius = 10000000
+2024-02-29 18:43:18.624 - Thread:   1 ->           TradeFactionsCount = 15
+2024-02-29 18:43:18.624 - Thread:   1 ->           HarvestRatioMultiplier = 1.8
+2024-02-29 18:43:18.624 - Thread:   1 ->           WeatherSystem = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           DepositSizeDenominator = 60
+2024-02-29 18:43:18.624 - Thread:   1 ->           DepositsCountCoefficient = 1
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableEconomy = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableBountyContracts = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableSupergridding = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableAutorespawn = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           OptimalSpawnDistance = 16000
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableGoodBotHints = False
+2024-02-29 18:43:18.624 - Thread:   1 ->           EnableResearch = True
+2024-02-29 18:43:18.624 - Thread:   1 ->           VoxelAgeThreshold = 24
+2024-02-29 18:43:18.625 - Thread:   1 ->           VoxelGridDistanceThreshold = 5000
+2024-02-29 18:43:18.625 - Thread:   1 ->           VoxelPlayerDistanceThreshold = 5000
+2024-02-29 18:43:18.625 - Thread:   1 ->           VoxelTrashRemovalEnabled = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           PlayerCharacterRemovalThreshold = 15
+2024-02-29 18:43:18.625 - Thread:   1 ->           PlayerInactivityThreshold = 0
+2024-02-29 18:43:18.625 - Thread:   1 ->           OptimalGridCount = 0
+2024-02-29 18:43:18.625 - Thread:   1 ->           PlayerDistanceThreshold = 500
+2024-02-29 18:43:18.625 - Thread:   1 ->           BlockCountThreshold = 20
+2024-02-29 18:43:18.625 - Thread:   1 ->           TrashFlagsValue = 7706
+2024-02-29 18:43:18.625 - Thread:   1 ->           TrashRemovalEnabled = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           RemoveOldIdentitiesH = 0
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableVoxelHand = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           AdaptiveSimulationQuality = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableScripterRole = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           BlockTypeLimits = VRage.Serialization.SerializableDictionary`2[System.String,System.Int16]
+2024-02-29 18:43:18.625 - Thread:   1 ->           FloraDensityMultiplier = 1
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableSpiders = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableWolfs = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           TotalBotLimit = 32
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableDrones = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           MaxDrones = 5
+2024-02-29 18:43:18.625 - Thread:   1 ->           StartInRespawnScreen = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           SpawnWithTools = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableJetpack = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           SunRotationIntervalMinutes = 120
+2024-02-29 18:43:18.625 - Thread:   1 ->           PhysicsIterations = 8
+2024-02-29 18:43:18.625 - Thread:   1 ->           CanJoinRunning = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           Scenario = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           ScenarioEditMode = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableRespawnShips = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableSunRotation = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           StationVoxelSupport = False
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableConvertToStation = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableEncounters = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           Enable3rdPersonView = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableOxygenPressurization = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableOxygen = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           ExperimentalMode = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           ExperimentalModeReason = ExperimentalMode, EnableIngameScripts
+2024-02-29 18:43:18.625 - Thread:   1 ->           MovementSpeedMultiplier = 1
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnableRecoil = True
+2024-02-29 18:43:18.625 - Thread:   1 ->           EnvironmentDamageMultiplier = 1
+2024-02-29 18:43:18.625 - Thread:   1 ->     MySession.Static.LogSettings - END
+2024-02-29 18:43:21.064 - Thread:   1 ->     Sending event to ElasticSearch: SessionStart
+2024-02-29 18:43:21.175 - Thread:  12 ->  Model Models\Environment\Trees\PineTree.mwm - Found too many collision shapes, only the first 10 will be used
+2024-02-29 18:43:21.181 - Thread:  14 ->  Model Models\Environment\Trees\DesertTree.mwm - Found too many collision shapes, only the first 10 will be used
+2024-02-29 18:43:21.189 - Thread:   1 ->     Sending event to ElasticSearch: ProductStats
+2024-02-29 18:43:21.190 - Thread:   1 ->     Analytics session started: UserID = (4249572979278907731) SessionID = (b00dfe2d-d818-4255-a830-0f2cdb42b355)
+2024-02-29 18:43:21.193 - Thread:   1 ->     Analytics ids for user ([009...663]): User = (4249572979278907731) Session = (b00dfe2d-d818-4255-a830-0f2cdb42b355).
+2024-02-29 18:43:21.212 - Thread:   1 ->     Sending event to ElasticSearch: WorldStart
+2024-02-29 18:43:21.259 - Thread:   1 ->     Session loaded
+2024-02-29 18:43:21.294 - Thread:  15 ->  Model Models\Environment\Trees\DesertTreeMedium.mwm - Found too many collision shapes, only the first 10 will be used
+2024-02-29 18:43:21.368 - Thread:  13 ->  Model Models\Environment\Trees\PineTreeSnow.mwm - Found too many collision shapes, only the first 10 will be used
+2024-02-29 18:43:21.385 - Thread:   1 ->  MySandboxGame.Initialize() - END
+2024-02-29 18:43:21.530 - Thread:   1 ->  Timer Frequency: 10000000
+2024-02-29 18:43:21.530 - Thread:   1 ->  Ticks per frame: 166667
+2024-02-29 18:43:21.852 - Thread:   1 ->  Updating continues.
+2024-02-29 18:43:22.656 - Thread:   1 ->  GC Memory: 234.9534 / 234.9534 MB
+2024-02-29 18:43:22.809 - Thread:   1 ->  Game ready... 
+2024-02-29 18:44:22.657 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemoryUsed,ProcessMemory,PCUBuilt,PCU,GridsCount,RenderCPULoadSmooth,RenderGPULoadSmooth,HardwareCPULoad,HardwareAvailableMemory,FrameTime,LowSimQuality,FrameTimeLimit,FrameTimeCPU,FrameTimeGPU,CPULoadLimit,TrackedMemory,GCMemoryAllocated,PersistedEncounters,EncounterEntities, DRS
+2024-02-29 18:44:22.671 - Thread:   1 ->  STATISTICS,0,0,0,0,0,0,0,0.2533026,0,1,0,257.917,1509.137,0,100000,0,0,0,0,20781,0,1,16.66667,0,0,100,947621440,257.917,0,0,-1
+2024-02-29 18:44:22.673 - Thread:   1 ->  MEMORY LEGEND,Srv,Uav,Read,Debug,Index,Audio,SrvUav,Vertex,Buffers,Physics,Planets,Systems,Textures,Indirect,Constant,RwTextures,Dx11Render,MeshBuffers,FileTextures,DepthStencil,TileTextures,Voxels-Native,CustomTextures,HeightmapFaces,Mesh GPU Buffers,BitStreamBuffers,GeneratedTextures,FileArrayTextures,NativeDictionaries,CubemapDataBuffers,HeightDetailTexture,MyDeviceWriteBuffers,ShadowCascadesStatsBuffers,AI_PathFinding,EpicOnlineServices,EpicOnlineServicesWrapper
+2024-02-29 18:44:22.673 - Thread:   1 ->  MEMORY VALUES,0,0,0,0,0,0,0,0,0,54,849,903,0,0,0,0,0,0,0,0,0,0,0,384,0,0,0,0,0,456,8,0,0,0,0,0

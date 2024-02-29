@@ -1,0 +1,4 @@
+1. TestInstance/SpaceEngineers-Dedicated.cfg
+    Load World
+        "<LoadWorld>/appdata/space-engineers/instances/TestInstance/Saves/Star System</LoadWorld>" muss so aussehen
+2. "scp -r .\TestInstance user@url:/appdata/space-engineers/instances" anpassen und ausführen
